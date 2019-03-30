@@ -1,0 +1,1713 @@
+Year,Variable,Unit,Commodity,Fresh,Processed,Total
+1970,Vegetables,Pounds,Artichokes,0.466223202,,0.466223202
+1971,Vegetables,Pounds,Artichokes,0.507076437,,0.507076437
+1972,Vegetables,Pounds,Artichokes,0.561230324,,0.561230324
+1973,Vegetables,Pounds,Artichokes,0.488417198,,0.488417198
+1974,Vegetables,Pounds,Artichokes,0.505017442,,0.505017442
+1975,Vegetables,Pounds,Artichokes,0.489876049,,0.489876049
+1976,Vegetables,Pounds,Artichokes,0.545325292,,0.545325292
+1977,Vegetables,Pounds,Artichokes,0.463133233,,0.463133233
+1978,Vegetables,Pounds,Artichokes,0.483860098,,0.483860098
+1979,Vegetables,Pounds,Artichokes,0.610073093,,0.610073093
+1980,Vegetables,Pounds,Artichokes,0.58710907,,0.58710907
+1981,Vegetables,Pounds,Artichokes,0.747501805,,0.747501805
+1982,Vegetables,Pounds,Artichokes,0.82303995,,0.82303995
+1983,Vegetables,Pounds,Artichokes,0.734506438,,0.734506438
+1984,Vegetables,Pounds,Artichokes,0.954524684,,0.954524684
+1985,Vegetables,Pounds,Artichokes,1.022787316,,1.022787316
+1986,Vegetables,Pounds,Artichokes,0.93537945,,0.93537945
+1987,Vegetables,Pounds,Artichokes,0.992981994,,0.992981994
+1988,Vegetables,Pounds,Artichokes,0.914615482,,0.914615482
+1989,Vegetables,Pounds,Artichokes,0.97436828,,0.97436828
+1990,Vegetables,Pounds,Artichokes,0.84581544,,0.84581544
+1991,Vegetables,Pounds,Artichokes,0.826855704,,0.826855704
+1992,Vegetables,Pounds,Artichokes,0.878868629,,0.878868629
+1993,Vegetables,Pounds,Artichokes,0.863833575,,0.863833575
+1994,Vegetables,Pounds,Artichokes,1.266296635,,1.266296635
+1995,Vegetables,Pounds,Artichokes,0.924783622,,0.924783622
+1996,Vegetables,Pounds,Artichokes,0.989413646,,0.989413646
+1997,Vegetables,Pounds,Artichokes,1.009710765,,1.009710765
+1998,Vegetables,Pounds,Artichokes,1.17991605,,1.17991605
+1999,Vegetables,Pounds,Artichokes,1.320819421,,1.320819421
+2000,Vegetables,Pounds,Artichokes,1.241738369,,1.241738369
+2001,Vegetables,Pounds,Artichokes,1.229625984,,1.229625984
+2002,Vegetables,Pounds,Artichokes,1.323801599,,1.323801599
+2003,Vegetables,Pounds,Artichokes,1.436041142,,1.436041142
+2004,Vegetables,Pounds,Artichokes,1.363307477,,1.363307477
+2005,Vegetables,Pounds,Artichokes,1.395178564,,1.395178564
+2006,Vegetables,Pounds,Artichokes,1.677682727,,1.677682727
+2007,Vegetables,Pounds,Artichokes,1.548578206,,1.548578206
+2008,Vegetables,Pounds,Artichokes,1.536883006,,1.536883006
+2009,Vegetables,Pounds,Artichokes,1.518232819,,1.518232819
+2010,Vegetables,Pounds,Artichokes,1.467384292,,1.467384292
+2011,Vegetables,Pounds,Artichokes,1.697824939,,1.697824939
+2012,Vegetables,Pounds,Artichokes,1.459894816,,1.459894816
+2013,Vegetables,Pounds,Artichokes,1.282416516,,1.282416516
+2014,Vegetables,Pounds,Artichokes,1.435717744,,1.435717744
+2015,Vegetables,Pounds,Artichokes,1.412834239,,1.412834239
+2016,Vegetables,Pounds,Artichokes,1.393625299,,1.393625299
+1970,Vegetables,Pounds,Asparagus,0.441931803,0.889529242,1.331461045
+1971,Vegetables,Pounds,Asparagus,0.378626704,0.899001915,1.277628619
+1972,Vegetables,Pounds,Asparagus,0.403152037,0.862429909,1.265581946
+1973,Vegetables,Pounds,Asparagus,0.400341656,0.89238354,1.292725196
+1974,Vegetables,Pounds,Asparagus,0.388746528,0.711022626,1.099769154
+1975,Vegetables,Pounds,Asparagus,0.411755173,0.790871372,1.202626545
+1976,Vegetables,Pounds,Asparagus,0.431215623,0.792892812,1.224108435
+1977,Vegetables,Pounds,Asparagus,0.336019317,0.657356872,0.993376189
+1978,Vegetables,Pounds,Asparagus,0.288150594,0.55780455,0.845955144
+1979,Vegetables,Pounds,Asparagus,0.250605408,0.488959091,0.739564499
+1980,Vegetables,Pounds,Asparagus,0.293958529,0.491509706,0.785468235
+1981,Vegetables,Pounds,Asparagus,0.310428498,0.485276914,0.795705412
+1982,Vegetables,Pounds,Asparagus,0.377435526,0.343353595,0.720789121
+1983,Vegetables,Pounds,Asparagus,0.432283286,0.405986672,0.838269959
+1984,Vegetables,Pounds,Asparagus,0.406172254,0.405934089,0.812106344
+1985,Vegetables,Pounds,Asparagus,0.465361938,0.397198527,0.862560465
+1986,Vegetables,Pounds,Asparagus,0.603143141,0.387116494,0.990259635
+1987,Vegetables,Pounds,Asparagus,0.566139767,0.380925932,0.947065699
+1988,Vegetables,Pounds,Asparagus,0.582137858,0.455348399,1.037486256
+1989,Vegetables,Pounds,Asparagus,0.57034593,0.380499054,0.950844984
+1990,Vegetables,Pounds,Asparagus,0.586867134,0.41922693,1.006094064
+1991,Vegetables,Pounds,Asparagus,0.600607307,0.368188146,0.968795452
+1992,Vegetables,Pounds,Asparagus,0.595653441,0.392938906,0.988592347
+1993,Vegetables,Pounds,Asparagus,0.567349192,0.34183259,0.909181783
+1994,Vegetables,Pounds,Asparagus,0.559437446,0.375869119,0.935306565
+1995,Vegetables,Pounds,Asparagus,0.556754548,0.342500868,0.899255415
+1996,Vegetables,Pounds,Asparagus,0.577898182,0.33404493,0.911943112
+1997,Vegetables,Pounds,Asparagus,0.658796477,0.278751497,0.937547973
+1998,Vegetables,Pounds,Asparagus,0.731042801,0.248524764,0.979567565
+1999,Vegetables,Pounds,Asparagus,0.894116006,0.229785966,1.123901972
+2000,Vegetables,Pounds,Asparagus,0.956651885,0.295815468,1.252467353
+2001,Vegetables,Pounds,Asparagus,0.919833048,0.284605163,1.204438211
+2002,Vegetables,Pounds,Asparagus,0.963583693,0.279406616,1.242990309
+2003,Vegetables,Pounds,Asparagus,1.043208426,0.300275175,1.343483601
+2004,Vegetables,Pounds,Asparagus,1.124717099,0.271886876,1.396603975
+2005,Vegetables,Pounds,Asparagus,1.116293717,0.249506252,1.365799969
+2006,Vegetables,Pounds,Asparagus,1.133879632,0.27634643,1.410226062
+2007,Vegetables,Pounds,Asparagus,1.160620393,0.234912559,1.395532952
+2008,Vegetables,Pounds,Asparagus,1.184633335,0.29695407,1.481587405
+2009,Vegetables,Pounds,Asparagus,1.294357263,0.228442195,1.522799458
+2010,Vegetables,Pounds,Asparagus,1.366185991,0.215364247,1.581550239
+2011,Vegetables,Pounds,Asparagus,1.381214518,0.261537,1.642751517
+2012,Vegetables,Pounds,Asparagus,1.447711659,0.22750613,1.67521779
+2013,Vegetables,Pounds,Asparagus,1.414396246,0.216901581,1.631297827
+2014,Vegetables,Pounds,Asparagus,1.65076986,0.168966217,1.819736077
+2015,Vegetables,Pounds,Asparagus,1.455382143,0.183682438,1.639064582
+2016,Vegetables,Pounds,Asparagus,1.543325309,0.232079201,1.775404511
+1970,Vegetables,Pounds,Dry edible beans,,6.24346233,6.24346233
+1971,Vegetables,Pounds,Dry edible beans,,6.756208808,6.756208808
+1972,Vegetables,Pounds,Dry edible beans,,5.765533121,5.765533121
+1973,Vegetables,Pounds,Dry edible beans,,7.439298683,7.439298683
+1974,Vegetables,Pounds,Dry edible beans,,5.481819851,5.481819851
+1975,Vegetables,Pounds,Dry edible beans,,6.801666361,6.801666361
+1976,Vegetables,Pounds,Dry edible beans,,6.270011494,6.270011494
+1977,Vegetables,Pounds,Dry edible beans,,6.669621239,6.669621239
+1978,Vegetables,Pounds,Dry edible beans,,5.063209603,5.063209603
+1979,Vegetables,Pounds,Dry edible beans,,6.235828827,6.235828827
+1980,Vegetables,Pounds,Dry edible beans,,5.396398184,5.396398184
+1981,Vegetables,Pounds,Dry edible beans,,5.421430737,5.421430737
+1982,Vegetables,Pounds,Dry edible beans,,7.347029244,7.347029244
+1983,Vegetables,Pounds,Dry edible beans,,6.247275912,6.247275912
+1984,Vegetables,Pounds,Dry edible beans,,5.407279377,5.407279377
+1985,Vegetables,Pounds,Dry edible beans,,6.911872447,6.911872447
+1986,Vegetables,Pounds,Dry edible beans,,6.358637571,6.358637571
+1987,Vegetables,Pounds,Dry edible beans,,5.383596563,5.383596563
+1988,Vegetables,Pounds,Dry edible beans,,6.846759739,6.846759739
+1989,Vegetables,Pounds,Dry edible beans,,5.419570459,5.419570459
+1990,Vegetables,Pounds,Dry edible beans,,6.729235147,6.729235147
+1991,Vegetables,Pounds,Dry edible beans,,7.347317346,7.347317346
+1992,Vegetables,Pounds,Dry edible beans,,7.818356299,7.818356299
+1993,Vegetables,Pounds,Dry edible beans,,7.22657972,7.22657972
+1994,Vegetables,Pounds,Dry edible beans,,7.707940764,7.707940764
+1995,Vegetables,Pounds,Dry edible beans,,7.506149683,7.506149683
+1996,Vegetables,Pounds,Dry edible beans,,7.434463868,7.434463868
+1997,Vegetables,Pounds,Dry edible beans,,7.396851726,7.396851726
+1998,Vegetables,Pounds,Dry edible beans,,7.259375357,7.259375357
+1999,Vegetables,Pounds,Dry edible beans,,7.80220836,7.80220836
+2000,Vegetables,Pounds,Dry edible beans,,7.683493007,7.683493007
+2001,Vegetables,Pounds,Dry edible beans,,7.041432291,7.041432291
+2002,Vegetables,Pounds,Dry edible beans,,6.812775919,6.812775919
+2003,Vegetables,Pounds,Dry edible beans,,6.77109257,6.77109257
+2004,Vegetables,Pounds,Dry edible beans,,5.98823354,5.98823354
+2005,Vegetables,Pounds,Dry edible beans,,6.122475205,6.122475205
+2006,Vegetables,Pounds,Dry edible beans,,6.446732565,6.446732565
+2007,Vegetables,Pounds,Dry edible beans,,6.366048139,6.366048139
+2008,Vegetables,Pounds,Dry edible beans,,6.449586231,6.449586231
+2009,Vegetables,Pounds,Dry edible beans,,5.752891161,5.752891161
+2010,Vegetables,Pounds,Dry edible beans,,6.760431139,6.760431139
+2011,Vegetables,Pounds,Dry edible beans,,5.40852924,5.40852924
+2012,Vegetables,Pounds,Dry edible beans,,5.874467348,5.874467348
+2013,Vegetables,Pounds,Dry edible beans,,5.819300783,5.819300783
+2014,Vegetables,Pounds,Dry edible beans,,5.623124082,5.623124082
+2015,Vegetables,Pounds,Dry edible beans,,7.191325593,7.191325593
+2016,Vegetables,Pounds,Dry edible beans,,6.742308981,6.742308981
+1970,Vegetables,Pounds,Lima beans,,0.039844124,0.039844124
+1971,Vegetables,Pounds,Lima beans,,0.030757995,0.030757995
+1972,Vegetables,Pounds,Lima beans,,0.047255388,0.047255388
+1973,Vegetables,Pounds,Lima beans,,0.112014977,0.112014977
+1974,Vegetables,Pounds,Lima beans,,0.039280281,0.039280281
+1975,Vegetables,Pounds,Lima beans,,0.052833368,0.052833368
+1976,Vegetables,Pounds,Lima beans,,0.065563398,0.065563398
+1977,Vegetables,Pounds,Lima beans,,0.045495018,0.045495018
+1978,Vegetables,Pounds,Lima beans,,0.056908784,0.056908784
+1979,Vegetables,Pounds,Lima beans,,0.132396982,0.132396982
+1980,Vegetables,Pounds,Lima beans,,0.203000957,0.203000957
+1981,Vegetables,Pounds,Lima beans,,0.141963021,0.141963021
+1982,Vegetables,Pounds,Lima beans,,0.100553158,0.100553158
+1983,Vegetables,Pounds,Lima beans,,0.096997702,0.096997702
+1984,Vegetables,Pounds,Lima beans,,0.031602342,0.031602342
+1985,Vegetables,Pounds,Lima beans,,0.03433483,0.03433483
+1986,Vegetables,Pounds,Lima beans,,0.142983704,0.142983704
+1987,Vegetables,Pounds,Lima beans,,0.069812834,0.069812834
+1988,Vegetables,Pounds,Lima beans,,0.147589098,0.147589098
+1989,Vegetables,Pounds,Lima beans,,0.038538186,0.038538186
+1990,Vegetables,Pounds,Lima beans,,0.051528662,0.051528662
+1991,Vegetables,Pounds,Lima beans,,0.200821603,0.200821603
+1992,Vegetables,Pounds,Lima beans,,0.112399178,0.112399178
+1993,Vegetables,Pounds,Lima beans,,0.026762152,0.026762152
+1994,Vegetables,Pounds,Lima beans,,0.047232112,0.047232112
+1995,Vegetables,Pounds,Lima beans,,0.234205056,0.234205056
+1996,Vegetables,Pounds,Lima beans,,0.209320876,0.209320876
+1997,Vegetables,Pounds,Lima beans,,0.203479831,0.203479831
+1998,Vegetables,Pounds,Lima beans,,0.225473692,0.225473692
+1999,Vegetables,Pounds,Lima beans,,0.170110899,0.170110899
+2000,Vegetables,Pounds,Lima beans,,0.19453987,0.19453987
+2001,Vegetables,Pounds,Lima beans,,0.335012077,0.335012077
+2002,Vegetables,Pounds,Lima beans,,0.198495117,0.198495117
+2003,Vegetables,Pounds,Lima beans,,0.178291735,0.178291735
+2004,Vegetables,Pounds,Lima beans,,0.259597977,0.259597977
+2005,Vegetables,Pounds,Lima beans,,0.17285823,0.17285823
+2006,Vegetables,Pounds,Lima beans,,0.686320869,0.686320869
+2007,Vegetables,Pounds,Lima beans,,0.258219551,0.258219551
+2008,Vegetables,Pounds,Lima beans,,0.373266511,0.373266511
+2009,Vegetables,Pounds,Lima beans,,0.823930488,0.823930488
+2010,Vegetables,Pounds,Lima beans,,1.585057482,1.585057482
+2011,Vegetables,Pounds,Lima beans,,0.838740304,0.838740304
+2012,Vegetables,Pounds,Lima beans,,0.579076757,0.579076757
+2013,Vegetables,Pounds,Lima beans,,1.335177662,1.335177662
+2014,Vegetables,Pounds,Lima beans,,1.302762165,1.302762165
+2015,Vegetables,Pounds,Lima beans,,2.302762165,2.302762165
+2016,Vegetables,Pounds,Lima beans,,3.302762165,3.302762165
+1970,Vegetables,Pounds,Snap beans,1.548387726,6.058212764,7.60660049
+1971,Vegetables,Pounds,Snap beans,1.512561338,5.951810861,7.464372199
+1972,Vegetables,Pounds,Snap beans,1.527423105,5.96677468,7.494197785
+1973,Vegetables,Pounds,Snap beans,1.427971441,6.585434324,8.013405765
+1974,Vegetables,Pounds,Snap beans,1.361209049,6.341897392,7.703106442
+1975,Vegetables,Pounds,Snap beans,1.446477106,5.587426624,7.03390373
+1976,Vegetables,Pounds,Snap beans,1.447932671,6.379161555,7.827094226
+1977,Vegetables,Pounds,Snap beans,1.344902583,6.177828961,7.522731544
+1978,Vegetables,Pounds,Snap beans,1.289395063,6.191310786,7.480705848
+1979,Vegetables,Pounds,Snap beans,1.306791673,6.139087103,7.445878776
+1980,Vegetables,Pounds,Snap beans,1.31457102,5.917154685,7.231725704
+1981,Vegetables,Pounds,Snap beans,1.257051042,6.306448821,7.563499863
+1982,Vegetables,Pounds,Snap beans,1.259832549,5.730268385,6.990100935
+1983,Vegetables,Pounds,Snap beans,1.238904514,5.540469377,6.779373892
+1984,Vegetables,Pounds,Snap beans,1.342643052,5.491316479,6.833959531
+1985,Vegetables,Pounds,Snap beans,1.259869331,5.630114207,6.889983538
+1986,Vegetables,Pounds,Snap beans,1.256263219,5.378470983,6.634734203
+1987,Vegetables,Pounds,Snap beans,1.216524439,5.43410817,6.650632609
+1988,Vegetables,Pounds,Snap beans,1.189506206,5.502891997,6.692398203
+1989,Vegetables,Pounds,Snap beans,1.193949673,5.880563875,7.074513548
+1990,Vegetables,Pounds,Snap beans,1.068800241,5.632181484,6.700981725
+1991,Vegetables,Pounds,Snap beans,1.123470364,5.865861279,6.989331643
+1992,Vegetables,Pounds,Snap beans,1.447293498,5.716634167,7.163927665
+1993,Vegetables,Pounds,Snap beans,1.51518606,5.696567132,7.211753192
+1994,Vegetables,Pounds,Snap beans,1.538669483,5.730452132,7.269121615
+1995,Vegetables,Pounds,Snap beans,1.635525884,5.193142174,6.828668058
+1996,Vegetables,Pounds,Snap beans,1.451637127,5.753301345,7.204938472
+1997,Vegetables,Pounds,Snap beans,1.349745387,5.389110667,6.738856054
+1998,Vegetables,Pounds,Snap beans,1.640574554,5.699549962,7.340124516
+1999,Vegetables,Pounds,Snap beans,1.895181847,5.631752215,7.526934063
+2000,Vegetables,Pounds,Snap beans,2.016033338,5.846648395,7.862681733
+2001,Vegetables,Pounds,Snap beans,2.165436531,5.665463656,7.830900187
+2002,Vegetables,Pounds,Snap beans,2.093334952,5.118758567,7.212093519
+2003,Vegetables,Pounds,Snap beans,1.966898242,5.539101671,7.505999913
+2004,Vegetables,Pounds,Snap beans,1.882187012,5.676506434,7.558693446
+2005,Vegetables,Pounds,Snap beans,1.800891023,5.797429431,7.598320454
+2006,Vegetables,Pounds,Snap beans,2.080476097,5.842849487,7.923325584
+2007,Vegetables,Pounds,Snap beans,2.197900294,5.612793568,7.810693862
+2008,Vegetables,Pounds,Snap beans,1.978776355,5.400075551,7.378851907
+2009,Vegetables,Pounds,Snap beans,1.749366777,5.499937206,7.249303983
+2010,Vegetables,Pounds,Snap beans,1.876142515,5.649201721,7.525344236
+2011,Vegetables,Pounds,Snap beans,1.726455528,4.705274646,6.431730174
+2012,Vegetables,Pounds,Snap beans,1.631635397,4.82930852,6.460943917
+2013,Vegetables,Pounds,Snap beans,1.621476676,4.963522088,6.584998764
+2014,Vegetables,Pounds,Snap beans,1.471046653,4.541285996,6.012332649
+2015,Vegetables,Pounds,Snap beans,1.59062255,4.842757607,6.433380157
+2016,Vegetables,Pounds,Snap beans,1.669087424,5.185953349,6.855040773
+1970,Vegetables,Pounds,Beets,,1.772721066,1.772721066
+1971,Vegetables,Pounds,Beets,,2.03793683,2.03793683
+1972,Vegetables,Pounds,Beets,,1.997179556,1.997179556
+1973,Vegetables,Pounds,Beets,,1.882883691,1.882883691
+1974,Vegetables,Pounds,Beets,,1.75867648,1.75867648
+1975,Vegetables,Pounds,Beets,,1.735865131,1.735865131
+1976,Vegetables,Pounds,Beets,,1.848785745,1.848785745
+1977,Vegetables,Pounds,Beets,,1.990110743,1.990110743
+1978,Vegetables,Pounds,Beets,,1.900846867,1.900846867
+1979,Vegetables,Pounds,Beets,,1.726866766,1.726866766
+1980,Vegetables,Pounds,Beets,,1.819467255,1.819467255
+1981,Vegetables,Pounds,Beets,,1.614586504,1.614586504
+1982,Vegetables,Pounds,Beets,,1.364286307,1.364286307
+1983,Vegetables,Pounds,Beets,,1.296307342,1.296307342
+1984,Vegetables,Pounds,Beets,,1.302165419,1.302165419
+1985,Vegetables,Pounds,Beets,,0.951152492,0.951152492
+1986,Vegetables,Pounds,Beets,,1.1568204,1.1568204
+1987,Vegetables,Pounds,Beets,,0.875595146,0.875595146
+1988,Vegetables,Pounds,Beets,,1.021146558,1.021146558
+1989,Vegetables,Pounds,Beets,,0.965740098,0.965740098
+1990,Vegetables,Pounds,Beets,,1.023189925,1.023189925
+1991,Vegetables,Pounds,Beets,,0.945072591,0.945072591
+1992,Vegetables,Pounds,Beets,,0.916486956,0.916486956
+1993,Vegetables,Pounds,Beets,,0.831569038,0.831569038
+1994,Vegetables,Pounds,Beets,,1.135911569,1.135911569
+1995,Vegetables,Pounds,Beets,,1.125462847,1.125462847
+1996,Vegetables,Pounds,Beets,,0.933521714,0.933521714
+1997,Vegetables,Pounds,Beets,,0.894061089,0.894061089
+1998,Vegetables,Pounds,Beets,,0.749904931,0.749904931
+1999,Vegetables,Pounds,Beets,,0.839255984,0.839255984
+2000,Vegetables,Pounds,Beets,,0.801460196,0.801460196
+2001,Vegetables,Pounds,Beets,,0.779365478,0.779365478
+2002,Vegetables,Pounds,Beets,,0.466649607,0.466649607
+2003,Vegetables,Pounds,Beets,,0.55092985,0.55092985
+2004,Vegetables,Pounds,Beets,,0.643111259,0.643111259
+2005,Vegetables,Pounds,Beets,,0.570874407,0.570874407
+2006,Vegetables,Pounds,Beets,,0.402218791,0.402218791
+2007,Vegetables,Pounds,Beets,,0.419199861,0.419199861
+2008,Vegetables,Pounds,Beets,,0.498936517,0.498936517
+2009,Vegetables,Pounds,Beets,,0.466183871,0.466183871
+2010,Vegetables,Pounds,Beets,,0.475297908,0.475297908
+2011,Vegetables,Pounds,Beets,,0.517152969,0.517152969
+2012,Vegetables,Pounds,Beets,,0.556266541,0.556266541
+2013,Vegetables,Pounds,Beets,,0.530727675,0.530727675
+2014,Vegetables,Pounds,Beets,,0.538267638,0.538267638
+2015,Vegetables,Pounds,Beets,,0.534387188,0.534387188
+2016,Vegetables,Pounds,Beets,,0.534387188,0.534387188
+1970,Vegetables,Pounds,Broccoli,0.532547842,0.965012143,1.497559985
+1971,Vegetables,Pounds,Broccoli,0.720404891,0.900485744,1.620890634
+1972,Vegetables,Pounds,Broccoli,0.702252544,0.92749152,1.629744064
+1973,Vegetables,Pounds,Broccoli,0.758344384,1.011471811,1.769816195
+1974,Vegetables,Pounds,Broccoli,0.786517905,0.998469657,1.784987562
+1975,Vegetables,Pounds,Broccoli,0.990401578,1.013912975,2.004314553
+1976,Vegetables,Pounds,Broccoli,1.076891325,1.120462114,2.197353439
+1977,Vegetables,Pounds,Broccoli,1.227303066,1.093859566,2.321162632
+1978,Vegetables,Pounds,Broccoli,0.987321697,1.417347974,2.404669671
+1979,Vegetables,Pounds,Broccoli,1.199688965,1.392694187,2.592383151
+1980,Vegetables,Pounds,Broccoli,1.40095773,1.455371682,2.856329412
+1981,Vegetables,Pounds,Broccoli,1.65651792,1.564054107,3.220572027
+1982,Vegetables,Pounds,Broccoli,1.987065654,1.516525501,3.503591154
+1983,Vegetables,Pounds,Broccoli,2.030686236,1.568162157,3.598848394
+1984,Vegetables,Pounds,Broccoli,2.457739012,1.743249899,4.200988911
+1985,Vegetables,Pounds,Broccoli,2.5787693,1.96108328,4.539852581
+1986,Vegetables,Pounds,Broccoli,3.046636,1.784788872,4.831424872
+1987,Vegetables,Pounds,Broccoli,3.087515033,2.215943724,5.303458757
+1988,Vegetables,Pounds,Broccoli,3.77433771,2.415548055,6.189885765
+1989,Vegetables,Pounds,Broccoli,3.804301206,2.168657163,5.972958369
+1990,Vegetables,Pounds,Broccoli,3.368001895,2.232763261,5.600765156
+1991,Vegetables,Pounds,Broccoli,3.042809794,2.252110104,5.294919897
+1992,Vegetables,Pounds,Broccoli,3.415728082,2.382963933,5.798692015
+1993,Vegetables,Pounds,Broccoli,3.332991493,2.271374624,5.604366117
+1994,Vegetables,Pounds,Broccoli,4.430294462,2.30899073,6.739285192
+1995,Vegetables,Pounds,Broccoli,4.307023053,2.549877296,6.856900349
+1996,Vegetables,Pounds,Broccoli,4.516061925,2.518894584,7.034956508
+1997,Vegetables,Pounds,Broccoli,4.965275034,2.283456886,7.24873192
+1998,Vegetables,Pounds,Broccoli,5.044979212,2.079153356,7.124132568
+1999,Vegetables,Pounds,Broccoli,6.159255798,2.11103045,8.270286248
+2000,Vegetables,Pounds,Broccoli,5.888447875,2.253371629,8.141819504
+2001,Vegetables,Pounds,Broccoli,5.398693855,2.037930863,7.436624718
+2002,Vegetables,Pounds,Broccoli,5.351338238,2.097374415,7.448712653
+2003,Vegetables,Pounds,Broccoli,5.347268424,2.59244825,7.939716674
+2004,Vegetables,Pounds,Broccoli,5.313715639,2.666817398,7.980533037
+2005,Vegetables,Pounds,Broccoli,5.341623004,2.710410006,8.05203301
+2006,Vegetables,Pounds,Broccoli,5.761133951,2.253020969,8.01415492
+2007,Vegetables,Pounds,Broccoli,5.636014653,2.676221303,8.312235957
+2008,Vegetables,Pounds,Broccoli,6.03487079,2.695916091,8.730786881
+2009,Vegetables,Pounds,Broccoli,6.207269256,2.500519174,8.70778843
+2010,Vegetables,Pounds,Broccoli,5.953382274,2.450346151,8.403728425
+2011,Vegetables,Pounds,Broccoli,5.940117224,2.653225747,8.593342971
+2012,Vegetables,Pounds,Broccoli,6.301994737,2.559407279,8.861402016
+2013,Vegetables,Pounds,Broccoli,6.925769213,2.48115048,9.406919693
+2014,Vegetables,Pounds,Broccoli,6.644277553,2.582548204,9.226825757
+2015,Vegetables,Pounds,Broccoli,7.404190336,2.585346793,9.989537129
+2016,Vegetables,Pounds,Broccoli,7.449445823,2.634678183,10.08412401
+1970,Vegetables,Pounds,Brussels sprouts,0.317259719,,0.317259719
+1971,Vegetables,Pounds,Brussels sprouts,0.299957045,,0.299957045
+1972,Vegetables,Pounds,Brussels sprouts,0.279047862,,0.279047862
+1973,Vegetables,Pounds,Brussels sprouts,0.267567682,,0.267567682
+1974,Vegetables,Pounds,Brussels sprouts,0.333405033,,0.333405033
+1975,Vegetables,Pounds,Brussels sprouts,0.308834901,,0.308834901
+1976,Vegetables,Pounds,Brussels sprouts,0.346274681,,0.346274681
+1977,Vegetables,Pounds,Brussels sprouts,0.348712081,,0.348712081
+1978,Vegetables,Pounds,Brussels sprouts,0.352674259,,0.352674259
+1979,Vegetables,Pounds,Brussels sprouts,0.368354402,,0.368354402
+1980,Vegetables,Pounds,Brussels sprouts,0.285430737,,0.285430737
+1981,Vegetables,Pounds,Brussels sprouts,0.363532,,0.363532
+1982,Vegetables,Pounds,Brussels sprouts,0.319568625,,0.319568625
+1983,Vegetables,Pounds,Brussels sprouts,0.293631859,,0.293631859
+1984,Vegetables,Pounds,Brussels sprouts,0.306751062,,0.306751062
+1985,Vegetables,Pounds,Brussels sprouts,0.328768042,,0.328768042
+1986,Vegetables,Pounds,Brussels sprouts,0.326614059,,0.326614059
+1987,Vegetables,Pounds,Brussels sprouts,0.258644833,,0.258644833
+1988,Vegetables,Pounds,Brussels sprouts,0.255896433,,0.255896433
+1989,Vegetables,Pounds,Brussels sprouts,0.336780652,,0.336780652
+1990,Vegetables,Pounds,Brussels sprouts,0.317032607,,0.317032607
+1991,Vegetables,Pounds,Brussels sprouts,0.299022064,,0.299022064
+1992,Vegetables,Pounds,Brussels sprouts,0.282217568,,0.282217568
+1993,Vegetables,Pounds,Brussels sprouts,0.347735874,,0.347735874
+1994,Vegetables,Pounds,Brussels sprouts,0.32379781,,0.32379781
+1995,Vegetables,Pounds,Brussels sprouts,0.335012774,,0.335012774
+1996,Vegetables,Pounds,Brussels sprouts,0.330407503,,0.330407503
+1997,Vegetables,Pounds,Brussels sprouts,0.247698892,,0.247698892
+1998,Vegetables,Pounds,Brussels sprouts,0.281404487,,0.281404487
+1999,Vegetables,Pounds,Brussels sprouts,0.25779194,,0.25779194
+2000,Vegetables,Pounds,Brussels sprouts,0.283106287,,0.283106287
+2001,Vegetables,Pounds,Brussels sprouts,0.229852334,,0.229852334
+2002,Vegetables,Pounds,Brussels sprouts,0.200808392,,0.200808392
+2003,Vegetables,Pounds,Brussels sprouts,0.23743906,,0.23743906
+2004,Vegetables,Pounds,Brussels sprouts,0.245174083,,0.245174083
+2005,Vegetables,Pounds,Brussels sprouts,0.287646816,,0.287646816
+2006,Vegetables,Pounds,Brussels sprouts,0.282271963,,0.282271963
+2007,Vegetables,Pounds,Brussels sprouts,0.30096193,,0.30096193
+2008,Vegetables,Pounds,Brussels sprouts,0.323345315,,0.323345315
+2009,Vegetables,Pounds,Brussels sprouts,0.280896417,,0.280896417
+2010,Vegetables,Pounds,Brussels sprouts,0.277960653,,0.277960653
+2011,Vegetables,Pounds,Brussels sprouts,0.353176741,,0.353176741
+2012,Vegetables,Pounds,Brussels sprouts,0.408069596,,0.408069596
+2013,Vegetables,Pounds,Brussels sprouts,0.432158667,,0.432158667
+2014,Vegetables,Pounds,Brussels sprouts,0.461591474,,0.461591474
+2015,Vegetables,Pounds,Brussels sprouts,0.69484657,,0.69484657
+2016,Vegetables,Pounds,Brussels sprouts,0.831482604,,0.831482604
+1970,Vegetables,Pounds,Cabbage,8.672434309,2.302933129,10.97536744
+1971,Vegetables,Pounds,Cabbage,8.822070586,2.467796861,11.28986745
+1972,Vegetables,Pounds,Cabbage,8.372241491,2.186583684,10.55882518
+1973,Vegetables,Pounds,Cabbage,8.860407062,2.129631224,10.99003829
+1974,Vegetables,Pounds,Cabbage,8.825179796,2.26596318,11.09114298
+1975,Vegetables,Pounds,Cabbage,8.912225139,2.053324346,10.96554949
+1976,Vegetables,Pounds,Cabbage,8.364712088,2.218834742,10.58354683
+1977,Vegetables,Pounds,Cabbage,8.282365975,2.187870977,10.47023695
+1978,Vegetables,Pounds,Cabbage,8.54780421,2.089838518,10.63764273
+1979,Vegetables,Pounds,Cabbage,8.052827087,2.058128253,10.11095534
+1980,Vegetables,Pounds,Cabbage,7.997189605,1.985717088,9.982906693
+1981,Vegetables,Pounds,Cabbage,8.152044215,2.026977914,10.17902213
+1982,Vegetables,Pounds,Cabbage,8.556915086,1.696980372,10.25389546
+1983,Vegetables,Pounds,Cabbage,8.206182487,2.078475431,10.28465792
+1984,Vegetables,Pounds,Cabbage,8.567531775,1.697729908,10.26526168
+1985,Vegetables,Pounds,Cabbage,8.737241368,1.592348763,10.32959013
+1986,Vegetables,Pounds,Cabbage,8.640948926,1.550612456,10.19156138
+1987,Vegetables,Pounds,Cabbage,9.077527553,1.61105175,10.6885793
+1988,Vegetables,Pounds,Cabbage,9.007227952,1.433850818,10.44107877
+1989,Vegetables,Pounds,Cabbage,8.602845635,1.282851646,9.885697281
+1990,Vegetables,Pounds,Cabbage,8.336802796,1.193990621,9.530793417
+1991,Vegetables,Pounds,Cabbage,8.20389047,1.435386857,9.639277327
+1992,Vegetables,Pounds,Cabbage,8.663359779,1.147265929,9.810625707
+1993,Vegetables,Pounds,Cabbage,9.322563747,1.35288688,10.67545063
+1994,Vegetables,Pounds,Cabbage,9.082278865,1.225489833,10.3077687
+1995,Vegetables,Pounds,Cabbage,8.123049573,1.372514345,9.495563918
+1996,Vegetables,Pounds,Cabbage,8.258002941,0.988782506,9.246785447
+1997,Vegetables,Pounds,Cabbage,9.013414822,1.436399625,10.44981445
+1998,Vegetables,Pounds,Cabbage,8.428245108,1.381692078,9.809937186
+1999,Vegetables,Pounds,Cabbage,7.553582144,1.235267021,8.788849165
+2000,Vegetables,Pounds,Cabbage,8.89983616,1.373246647,10.27308281
+2001,Vegetables,Pounds,Cabbage,8.828018346,1.26353721,10.09155556
+2002,Vegetables,Pounds,Cabbage,8.295077606,1.178087213,9.47316482
+2003,Vegetables,Pounds,Cabbage,7.396751999,1.091718023,8.488470021
+2004,Vegetables,Pounds,Cabbage,8.042974294,1.084216885,9.127191179
+2005,Vegetables,Pounds,Cabbage,7.757397414,1.212946086,8.9703435
+2006,Vegetables,Pounds,Cabbage,7.75130713,1.208226233,8.959533363
+2007,Vegetables,Pounds,Cabbage,7.950856227,1.006077335,8.956933562
+2008,Vegetables,Pounds,Cabbage,8.051385515,0.936747217,8.988132732
+2009,Vegetables,Pounds,Cabbage,7.2512526,0.94930173,8.20055433
+2010,Vegetables,Pounds,Cabbage,7.459811405,0.997740866,8.457552271
+2011,Vegetables,Pounds,Cabbage,6.559308027,1.020706904,7.580014931
+2012,Vegetables,Pounds,Cabbage,6.257127912,1.152550828,7.40967874
+2013,Vegetables,Pounds,Cabbage,6.927772888,1.072057942,7.99983083
+2014,Vegetables,Pounds,Cabbage,6.689372189,1.133610967,7.822983157
+2015,Vegetables,Pounds,Cabbage,6.284427345,1.203102439,7.487529783
+2016,Vegetables,Pounds,Cabbage,5.884382801,1.420963898,7.305346698
+1970,Vegetables,Pounds,Carrots,5.968242202,3.539991523,9.508233725
+1971,Vegetables,Pounds,Carrots,6.11621826,3.367384626,9.483602885
+1972,Vegetables,Pounds,Carrots,6.54085833,3.881704112,10.42256244
+1973,Vegetables,Pounds,Carrots,6.702877178,4.037160075,10.74003725
+1974,Vegetables,Pounds,Carrots,6.911724822,3.788737961,10.70046278
+1975,Vegetables,Pounds,Carrots,6.443861038,3.5045102,9.948371239
+1976,Vegetables,Pounds,Carrots,6.410438691,3.538506366,9.948945057
+1977,Vegetables,Pounds,Carrots,5.310140348,3.656154482,8.96629483
+1978,Vegetables,Pounds,Carrots,5.310330885,3.364832776,8.67516366
+1979,Vegetables,Pounds,Carrots,5.88789407,3.69356313,9.5814572
+1980,Vegetables,Pounds,Carrots,6.150812819,3.473644803,9.624457622
+1981,Vegetables,Pounds,Carrots,6.118730595,3.445296601,9.564027196
+1982,Vegetables,Pounds,Carrots,6.603269764,2.941342149,9.544611914
+1983,Vegetables,Pounds,Carrots,6.489776234,3.048567138,9.538343372
+1984,Vegetables,Pounds,Carrots,6.684211417,3.98034516,10.66455658
+1985,Vegetables,Pounds,Carrots,6.491072103,3.169930218,9.66100232
+1986,Vegetables,Pounds,Carrots,6.484078603,2.981833443,9.465912047
+1987,Vegetables,Pounds,Carrots,8.295991829,3.141102124,11.43709395
+1988,Vegetables,Pounds,Carrots,7.094493941,3.358777737,10.45327168
+1989,Vegetables,Pounds,Carrots,8.085565735,3.384395816,11.46996155
+1990,Vegetables,Pounds,Carrots,8.291476516,3.470850254,11.76232677
+1991,Vegetables,Pounds,Carrots,7.713142304,3.567424155,11.28056646
+1992,Vegetables,Pounds,Carrots,8.289939823,4.032798204,12.32273803
+1993,Vegetables,Pounds,Carrots,10.84669574,3.83326487,14.67996061
+1994,Vegetables,Pounds,Carrots,12.67698771,4.228191911,16.90517962
+1995,Vegetables,Pounds,Carrots,11.19108608,4.212215625,15.40330171
+1996,Vegetables,Pounds,Carrots,12.37007628,4.554225104,16.92430138
+1997,Vegetables,Pounds,Carrots,14.11375053,4.048338128,18.16208866
+1998,Vegetables,Pounds,Carrots,9.526669616,4.208763687,13.7354333
+1999,Vegetables,Pounds,Carrots,9.252603688,3.818029055,13.07063274
+2000,Vegetables,Pounds,Carrots,9.203845378,3.788619741,12.99246512
+2001,Vegetables,Pounds,Carrots,9.380094518,3.355845899,12.73594042
+2002,Vegetables,Pounds,Carrots,8.417365946,3.100343273,11.51770922
+2003,Vegetables,Pounds,Carrots,8.778799251,3.126088518,11.90488777
+2004,Vegetables,Pounds,Carrots,8.721080087,3.046488391,11.76756848
+2005,Vegetables,Pounds,Carrots,8.664713276,3.10169695,11.76641023
+2006,Vegetables,Pounds,Carrots,8.108243859,3.034151359,11.14239522
+2007,Vegetables,Pounds,Carrots,8.04969622,2.42774023,10.47743645
+2008,Vegetables,Pounds,Carrots,8.067039931,2.496784856,10.56382479
+2009,Vegetables,Pounds,Carrots,7.386188165,2.390642774,9.776830938
+2010,Vegetables,Pounds,Carrots,7.757007198,2.218452572,9.975459771
+2011,Vegetables,Pounds,Carrots,7.500806255,2.382014955,9.882821211
+2012,Vegetables,Pounds,Carrots,7.944925255,1.984520437,9.929445692
+2013,Vegetables,Pounds,Carrots,8.012844442,2.446419951,10.45926439
+2014,Vegetables,Pounds,Carrots,8.47960339,1.918536316,10.39813971
+2015,Vegetables,Pounds,Carrots,8.790090365,2.047268592,10.83735896
+2016,Vegetables,Pounds,Carrots,7.80302322,2.900291696,10.70331492
+1970,Vegetables,Pounds,Cauliflower,0.741275384,0.497151064,1.238426448
+1971,Vegetables,Pounds,Cauliflower,0.694400971,0.618901671,1.313302642
+1972,Vegetables,Pounds,Cauliflower,0.834699089,0.537358025,1.372057114
+1973,Vegetables,Pounds,Cauliflower,0.757400582,0.594853687,1.35225427
+1974,Vegetables,Pounds,Cauliflower,0.787920731,0.657102322,1.445023053
+1975,Vegetables,Pounds,Cauliflower,0.917707306,0.587797364,1.50550467
+1976,Vegetables,Pounds,Cauliflower,1.031944413,0.611852134,1.643796546
+1977,Vegetables,Pounds,Cauliflower,1.087909044,0.665662303,1.753571347
+1978,Vegetables,Pounds,Cauliflower,0.787564301,0.763847294,1.551411596
+1979,Vegetables,Pounds,Cauliflower,1.085956766,0.674898625,1.760855391
+1980,Vegetables,Pounds,Cauliflower,1.134257836,0.781997576,1.916255412
+1981,Vegetables,Pounds,Cauliflower,1.368028317,0.90973196,2.277760278
+1982,Vegetables,Pounds,Cauliflower,1.326511275,0.894649767,2.221161042
+1983,Vegetables,Pounds,Cauliflower,1.414810484,0.847888411,2.262698895
+1984,Vegetables,Pounds,Cauliflower,1.824428385,0.949792721,2.774221106
+1985,Vegetables,Pounds,Cauliflower,1.839255911,0.928121325,2.767377236
+1986,Vegetables,Pounds,Cauliflower,2.185322313,0.925834216,3.11115653
+1987,Vegetables,Pounds,Cauliflower,2.131760597,0.94533039,3.077090987
+1988,Vegetables,Pounds,Cauliflower,2.194097649,0.943919093,3.138016741
+1989,Vegetables,Pounds,Cauliflower,2.311374534,0.751024897,3.062399431
+1990,Vegetables,Pounds,Cauliflower,2.190843235,0.757775654,2.948618889
+1991,Vegetables,Pounds,Cauliflower,1.951533178,0.581827119,2.533360298
+1992,Vegetables,Pounds,Cauliflower,1.807360234,0.656111476,2.46347171
+1993,Vegetables,Pounds,Cauliflower,2.09064187,0.687757433,2.778399303
+1994,Vegetables,Pounds,Cauliflower,2.021363823,0.587236369,2.608600191
+1995,Vegetables,Pounds,Cauliflower,1.637173288,0.606738072,2.24391136
+1996,Vegetables,Pounds,Cauliflower,1.72101147,0.479196781,2.20020825
+1997,Vegetables,Pounds,Cauliflower,1.765404233,0.43528613,2.200690363
+1998,Vegetables,Pounds,Cauliflower,1.458812451,0.774557108,2.23336956
+1999,Vegetables,Pounds,Cauliflower,1.764442614,0.502954931,2.267397545
+2000,Vegetables,Pounds,Cauliflower,1.737017365,0.563473151,2.300490516
+2001,Vegetables,Pounds,Cauliflower,1.519331297,0.501764337,2.021095634
+2002,Vegetables,Pounds,Cauliflower,1.425341955,0.302684653,1.728026608
+2003,Vegetables,Pounds,Cauliflower,1.559227124,0.36072653,1.919953654
+2004,Vegetables,Pounds,Cauliflower,1.559213113,0.382375462,1.941588575
+2005,Vegetables,Pounds,Cauliflower,1.750648407,0.364942685,2.115591092
+2006,Vegetables,Pounds,Cauliflower,1.697381232,0.35765656,2.055037792
+2007,Vegetables,Pounds,Cauliflower,1.680208972,0.364669944,2.044878916
+2008,Vegetables,Pounds,Cauliflower,1.572257224,0.442501737,2.014758961
+2009,Vegetables,Pounds,Cauliflower,1.732962393,0.356113528,2.089075921
+2010,Vegetables,Pounds,Cauliflower,1.334133825,0.370440188,1.704574014
+2011,Vegetables,Pounds,Cauliflower,1.246583511,0.442524157,1.689107669
+2012,Vegetables,Pounds,Cauliflower,1.175312002,0.337757331,1.513069333
+2013,Vegetables,Pounds,Cauliflower,1.329893908,0.336029854,1.665923761
+2014,Vegetables,Pounds,Cauliflower,1.290837131,0.356520273,1.647357404
+2015,Vegetables,Pounds,Cauliflower,1.577612562,0.341914331,1.919526892
+2016,Vegetables,Pounds,Cauliflower,1.571634427,0.405942721,1.977577148
+1970,Vegetables,Pounds,Celery,7.266634805,,7.266634805
+1971,Vegetables,Pounds,Celery,7.272151247,,7.272151247
+1972,Vegetables,Pounds,Celery,7.132413195,,7.132413195
+1973,Vegetables,Pounds,Celery,7.564884927,,7.564884927
+1974,Vegetables,Pounds,Celery,7.351797488,,7.351797488
+1975,Vegetables,Pounds,Celery,6.944163391,,6.944163391
+1976,Vegetables,Pounds,Celery,7.359156099,,7.359156099
+1977,Vegetables,Pounds,Celery,7.045746212,,7.045746212
+1978,Vegetables,Pounds,Celery,7.070337175,,7.070337175
+1979,Vegetables,Pounds,Celery,7.068494368,,7.068494368
+1980,Vegetables,Pounds,Celery,7.371643993,,7.371643993
+1981,Vegetables,Pounds,Celery,7.272005427,,7.272005427
+1982,Vegetables,Pounds,Celery,7.41193774,,7.41193774
+1983,Vegetables,Pounds,Celery,7.001314515,,7.001314515
+1984,Vegetables,Pounds,Celery,7.115046457,,7.115046457
+1985,Vegetables,Pounds,Celery,6.880351916,,6.880351916
+1986,Vegetables,Pounds,Celery,6.492763379,,6.492763379
+1987,Vegetables,Pounds,Celery,6.593573417,,6.593573417
+1988,Vegetables,Pounds,Celery,7.152856286,,7.152856286
+1989,Vegetables,Pounds,Celery,7.4742664,,7.4742664
+1990,Vegetables,Pounds,Celery,7.194457327,,7.194457327
+1991,Vegetables,Pounds,Celery,6.732698733,,6.732698733
+1992,Vegetables,Pounds,Celery,7.323358599,,7.323358599
+1993,Vegetables,Pounds,Celery,7.261399696,,7.261399696
+1994,Vegetables,Pounds,Celery,7.23663467,,7.23663467
+1995,Vegetables,Pounds,Celery,6.934465702,,6.934465702
+1996,Vegetables,Pounds,Celery,7.027256557,,7.027256557
+1997,Vegetables,Pounds,Celery,6.549176372,,6.549176372
+1998,Vegetables,Pounds,Celery,6.467390399,,6.467390399
+1999,Vegetables,Pounds,Celery,6.531724087,,6.531724087
+2000,Vegetables,Pounds,Celery,6.268972226,,6.268972226
+2001,Vegetables,Pounds,Celery,6.412328693,,6.412328693
+2002,Vegetables,Pounds,Celery,6.301961281,,6.301961281
+2003,Vegetables,Pounds,Celery,6.268569683,,6.268569683
+2004,Vegetables,Pounds,Celery,6.230370712,,6.230370712
+2005,Vegetables,Pounds,Celery,5.922759569,,5.922759569
+2006,Vegetables,Pounds,Celery,6.08324154,,6.08324154
+2007,Vegetables,Pounds,Celery,6.287943802,,6.287943802
+2008,Vegetables,Pounds,Celery,6.222688906,,6.222688906
+2009,Vegetables,Pounds,Celery,6.173980202,,6.173980202
+2010,Vegetables,Pounds,Celery,6.129937372,,6.129937372
+2011,Vegetables,Pounds,Celery,5.974957783,,5.974957783
+2012,Vegetables,Pounds,Celery,5.954327047,,5.954327047
+2013,Vegetables,Pounds,Celery,5.476294557,,5.476294557
+2014,Vegetables,Pounds,Celery,5.537401496,,5.537401496
+2015,Vegetables,Pounds,Celery,5.427730427,,5.427730427
+2016,Vegetables,Pounds,Celery,4.978234505,,4.978234505
+1970,Vegetables,Pounds,Collard greens,,,
+1971,Vegetables,Pounds,Collard greens,,,
+1972,Vegetables,Pounds,Collard greens,,,
+1973,Vegetables,Pounds,Collard greens,,,
+1974,Vegetables,Pounds,Collard greens,,,
+1975,Vegetables,Pounds,Collard greens,,,
+1976,Vegetables,Pounds,Collard greens,,,
+1977,Vegetables,Pounds,Collard greens,,,
+1978,Vegetables,Pounds,Collard greens,,,
+1979,Vegetables,Pounds,Collard greens,,,
+1980,Vegetables,Pounds,Collard greens,,,
+1981,Vegetables,Pounds,Collard greens,,,
+1982,Vegetables,Pounds,Collard greens,,,
+1983,Vegetables,Pounds,Collard greens,,,
+1984,Vegetables,Pounds,Collard greens,,,
+1985,Vegetables,Pounds,Collard greens,,,
+1986,Vegetables,Pounds,Collard greens,,,
+1987,Vegetables,Pounds,Collard greens,,,
+1988,Vegetables,Pounds,Collard greens,,,
+1989,Vegetables,Pounds,Collard greens,,,
+1990,Vegetables,Pounds,Collard greens,,,
+1991,Vegetables,Pounds,Collard greens,,,
+1992,Vegetables,Pounds,Collard greens,,,
+1993,Vegetables,Pounds,Collard greens,,,
+1994,Vegetables,Pounds,Collard greens,,,
+1995,Vegetables,Pounds,Collard greens,,,
+1996,Vegetables,Pounds,Collard greens,,,
+1997,Vegetables,Pounds,Collard greens,0.794966876,,0.794966876
+1998,Vegetables,Pounds,Collard greens,0.787345852,,0.787345852
+1999,Vegetables,Pounds,Collard greens,0.779963838,,0.779963838
+2000,Vegetables,Pounds,Collard greens,0.772994316,,0.772994316
+2001,Vegetables,Pounds,Collard greens,0.766621401,,0.766621401
+2002,Vegetables,Pounds,Collard greens,0.760345956,,0.760345956
+2003,Vegetables,Pounds,Collard greens,0.8695613,,0.8695613
+2004,Vegetables,Pounds,Collard greens,0.848855816,,0.848855816
+2005,Vegetables,Pounds,Collard greens,0.741058697,,0.741058697
+2006,Vegetables,Pounds,Collard greens,0.646888763,,0.646888763
+2007,Vegetables,Pounds,Collard greens,0.679081479,,0.679081479
+2008,Vegetables,Pounds,Collard greens,0.698636138,,0.698636138
+2009,Vegetables,Pounds,Collard greens,0.707687706,,0.707687706
+2010,Vegetables,Pounds,Collard greens,0.931548491,,0.931548491
+2011,Vegetables,Pounds,Collard greens,0.87425862,,0.87425862
+2012,Vegetables,Pounds,Collard greens,1.102711042,,1.102711042
+2013,Vegetables,Pounds,Collard greens,1.270918319,,1.270918319
+2014,Vegetables,Pounds,Collard greens,1.5368361,,1.5368361
+2015,Vegetables,Pounds,Collard greens,1.302907261,,1.302907261
+2016,Vegetables,Pounds,Collard greens,1.094077341,,1.094077341
+1970,Vegetables,Pounds,Sweet corn,7.780421552,20.01443387,27.79485542
+1971,Vegetables,Pounds,Sweet corn,7.455410501,20.25617258,27.71158308
+1972,Vegetables,Pounds,Sweet corn,7.77091512,20.3038685,28.07478362
+1973,Vegetables,Pounds,Sweet corn,7.909895285,20.39997404,28.30986933
+1974,Vegetables,Pounds,Sweet corn,7.732593265,19.31309212,27.04568538
+1975,Vegetables,Pounds,Sweet corn,7.774911679,18.26808155,26.04299323
+1976,Vegetables,Pounds,Sweet corn,8.012773179,18.79009094,26.80286412
+1977,Vegetables,Pounds,Sweet corn,7.556440957,21.36420585,28.92064681
+1978,Vegetables,Pounds,Sweet corn,6.58990498,19.68993071,26.27983569
+1979,Vegetables,Pounds,Sweet corn,6.482708671,19.50413797,25.98684664
+1980,Vegetables,Pounds,Sweet corn,6.498287416,19.43321008,25.93149749
+1981,Vegetables,Pounds,Sweet corn,6.233008358,18.4159479,24.64895625
+1982,Vegetables,Pounds,Sweet corn,6.017507365,17.34843003,23.3659374
+1983,Vegetables,Pounds,Sweet corn,6.144929516,18.27284243,24.41777194
+1984,Vegetables,Pounds,Sweet corn,6.436411563,18.20239232,24.63880388
+1985,Vegetables,Pounds,Sweet corn,6.413224527,19.79428321,26.20750774
+1986,Vegetables,Pounds,Sweet corn,6.060616827,19.64603541,25.70665224
+1987,Vegetables,Pounds,Sweet corn,6.261853182,18.46966336,24.73151654
+1988,Vegetables,Pounds,Sweet corn,5.819395072,19.09993216,24.91932723
+1989,Vegetables,Pounds,Sweet corn,6.52762976,17.90655085,24.43418061
+1990,Vegetables,Pounds,Sweet corn,6.742360034,19.54751539,26.28987543
+1991,Vegetables,Pounds,Sweet corn,5.908121155,20.42472177,26.33284293
+1992,Vegetables,Pounds,Sweet corn,6.868696606,20.7954779,27.66417451
+1993,Vegetables,Pounds,Sweet corn,6.976713908,20.7963565,27.77307041
+1994,Vegetables,Pounds,Sweet corn,8.154861241,19.17579973,27.33066097
+1995,Vegetables,Pounds,Sweet corn,7.822810221,20.73778476,28.56059498
+1996,Vegetables,Pounds,Sweet corn,8.326093182,20.711493,29.03758618
+1997,Vegetables,Pounds,Sweet corn,8.290438929,19.20681361,27.49725254
+1998,Vegetables,Pounds,Sweet corn,9.333511819,19.00655585,28.34006767
+1999,Vegetables,Pounds,Sweet corn,9.094929709,19.14299527,28.23792498
+2000,Vegetables,Pounds,Sweet corn,9.039668421,18.05046141,27.09012984
+2001,Vegetables,Pounds,Sweet corn,9.173192755,17.98340759,27.15660035
+2002,Vegetables,Pounds,Sweet corn,8.973950963,17.16923216,26.14318312
+2003,Vegetables,Pounds,Sweet corn,9.165590945,17.33190661,26.49749756
+2004,Vegetables,Pounds,Sweet corn,8.9623188,17.28017053,26.24248933
+2005,Vegetables,Pounds,Sweet corn,8.651548187,18.02914156,26.68068975
+2006,Vegetables,Pounds,Sweet corn,8.326235799,17.78835778,26.11459358
+2007,Vegetables,Pounds,Sweet corn,9.224536442,16.82887483,26.05341127
+2008,Vegetables,Pounds,Sweet corn,9.142437457,15.98640805,25.12884551
+2009,Vegetables,Pounds,Sweet corn,9.174135241,16.66242989,25.83656513
+2010,Vegetables,Pounds,Sweet corn,9.247595835,15.40105538,24.64865121
+2011,Vegetables,Pounds,Sweet corn,8.164748013,15.56654595,23.73129396
+2012,Vegetables,Pounds,Sweet corn,8.676354658,15.63380091,24.31015557
+2013,Vegetables,Pounds,Sweet corn,8.869606179,12.77922667,21.64883285
+2014,Vegetables,Pounds,Sweet corn,7.640246676,13.43469851,21.07494519
+2015,Vegetables,Pounds,Sweet corn,8.60933973,13.34517104,21.95451077
+2016,Vegetables,Pounds,Sweet corn,7.188747079,13.13735092,20.326098
+1970,Vegetables,Pounds,Cucumbers,2.818309502,5.662994944,8.481304446
+1971,Vegetables,Pounds,Cucumbers,2.785308748,5.532830319,8.318139067
+1972,Vegetables,Pounds,Cucumbers,2.967183748,5.40971185,8.376895598
+1973,Vegetables,Pounds,Cucumbers,2.745046223,5.657517935,8.402564157
+1974,Vegetables,Pounds,Cucumbers,2.956690078,5.740278063,8.696968141
+1975,Vegetables,Pounds,Cucumbers,2.804980252,6.118710231,8.923690484
+1976,Vegetables,Pounds,Cucumbers,3.082991263,6.127646649,9.210637912
+1977,Vegetables,Pounds,Cucumbers,3.495293749,5.77551393,9.270807679
+1978,Vegetables,Pounds,Cucumbers,3.807084934,6.048885936,9.85597087
+1979,Vegetables,Pounds,Cucumbers,3.833729533,5.848292234,9.682021767
+1980,Vegetables,Pounds,Cucumbers,3.862097433,5.397099583,9.259197016
+1981,Vegetables,Pounds,Cucumbers,3.999721698,5.34355795,9.343279648
+1982,Vegetables,Pounds,Cucumbers,4.18583217,5.107079487,9.292911657
+1983,Vegetables,Pounds,Cucumbers,4.536782939,5.155637609,9.692420548
+1984,Vegetables,Pounds,Cucumbers,4.652884729,5.227365817,9.880250546
+1985,Vegetables,Pounds,Cucumbers,4.393917791,5.825882298,10.21980009
+1986,Vegetables,Pounds,Cucumbers,4.62495481,5.325926292,9.950881102
+1987,Vegetables,Pounds,Cucumbers,5.066638111,5.535245844,10.60188396
+1988,Vegetables,Pounds,Cucumbers,4.824484432,5.278645014,10.10312945
+1989,Vegetables,Pounds,Cucumbers,4.783659872,5.190377049,9.974036921
+1990,Vegetables,Pounds,Cucumbers,4.674195289,4.994025371,9.668220659
+1991,Vegetables,Pounds,Cucumbers,4.557888174,5.055911514,9.613799689
+1992,Vegetables,Pounds,Cucumbers,4.927854551,4.545335493,9.473190044
+1993,Vegetables,Pounds,Cucumbers,5.211782813,4.327499623,9.539282436
+1994,Vegetables,Pounds,Cucumbers,5.362692217,4.779415728,10.14210795
+1995,Vegetables,Pounds,Cucumbers,5.608946068,5.045996515,10.65494258
+1996,Vegetables,Pounds,Cucumbers,5.930337909,4.076333922,10.00667183
+1997,Vegetables,Pounds,Cucumbers,6.422859698,5.235767877,11.65862757
+1998,Vegetables,Pounds,Cucumbers,6.490303272,4.01265735,10.50296062
+1999,Vegetables,Pounds,Cucumbers,6.729207813,4.202151252,10.93135906
+2000,Vegetables,Pounds,Cucumbers,6.351313413,4.892003831,11.24331724
+2001,Vegetables,Pounds,Cucumbers,6.267731982,3.733542615,10.0012746
+2002,Vegetables,Pounds,Cucumbers,6.623385781,5.404083194,12.02746897
+2003,Vegetables,Pounds,Cucumbers,6.157652117,4.444572736,10.60222485
+2004,Vegetables,Pounds,Cucumbers,6.429887098,4.883354053,11.31324115
+2005,Vegetables,Pounds,Cucumbers,6.193473139,3.841621635,10.03509477
+2006,Vegetables,Pounds,Cucumbers,6.140421489,2.989965726,9.130387215
+2007,Vegetables,Pounds,Cucumbers,6.422974497,3.733374664,10.15634916
+2008,Vegetables,Pounds,Cucumbers,6.387755325,3.544036821,9.931792146
+2009,Vegetables,Pounds,Cucumbers,6.803716414,5.060729229,11.86444564
+2010,Vegetables,Pounds,Cucumbers,6.730886289,3.742717287,10.47360358
+2011,Vegetables,Pounds,Cucumbers,6.378453378,2.826740141,9.205193519
+2012,Vegetables,Pounds,Cucumbers,7.120080653,2.973735119,10.09381577
+2013,Vegetables,Pounds,Cucumbers,7.319461461,3.215882445,10.53534391
+2014,Vegetables,Pounds,Cucumbers,7.426431752,3.869567168,11.29599892
+2015,Vegetables,Pounds,Cucumbers,7.557335083,3.411528756,10.96886384
+2016,Vegetables,Pounds,Cucumbers,8.212093641,3.093414055,11.3055077
+1970,Vegetables,Pounds,Eggplant,0.333573923,,0.333573923
+1971,Vegetables,Pounds,Eggplant,0.322641228,,0.322641228
+1972,Vegetables,Pounds,Eggplant,0.386858254,,0.386858254
+1973,Vegetables,Pounds,Eggplant,0.43367672,,0.43367672
+1974,Vegetables,Pounds,Eggplant,0.406351997,,0.406351997
+1975,Vegetables,Pounds,Eggplant,0.445426049,,0.445426049
+1976,Vegetables,Pounds,Eggplant,0.459100603,,0.459100603
+1977,Vegetables,Pounds,Eggplant,0.43770631,,0.43770631
+1978,Vegetables,Pounds,Eggplant,0.488802031,,0.488802031
+1979,Vegetables,Pounds,Eggplant,0.475883673,,0.475883673
+1980,Vegetables,Pounds,Eggplant,0.477328017,,0.477328017
+1981,Vegetables,Pounds,Eggplant,0.458328622,,0.458328622
+1982,Vegetables,Pounds,Eggplant,0.513807776,,0.513807776
+1983,Vegetables,Pounds,Eggplant,0.512575382,,0.512575382
+1984,Vegetables,Pounds,Eggplant,0.468800244,,0.468800244
+1985,Vegetables,Pounds,Eggplant,0.457926916,,0.457926916
+1986,Vegetables,Pounds,Eggplant,0.466650876,,0.466650876
+1987,Vegetables,Pounds,Eggplant,0.472809344,,0.472809344
+1988,Vegetables,Pounds,Eggplant,0.390170638,,0.390170638
+1989,Vegetables,Pounds,Eggplant,0.399042621,,0.399042621
+1990,Vegetables,Pounds,Eggplant,0.399389123,,0.399389123
+1991,Vegetables,Pounds,Eggplant,0.411451204,,0.411451204
+1992,Vegetables,Pounds,Eggplant,0.469843593,,0.469843593
+1993,Vegetables,Pounds,Eggplant,0.471460683,,0.471460683
+1994,Vegetables,Pounds,Eggplant,0.516254422,,0.516254422
+1995,Vegetables,Pounds,Eggplant,0.472694396,,0.472694396
+1996,Vegetables,Pounds,Eggplant,0.598886775,,0.598886775
+1997,Vegetables,Pounds,Eggplant,0.650163789,,0.650163789
+1998,Vegetables,Pounds,Eggplant,0.699751915,,0.699751915
+1999,Vegetables,Pounds,Eggplant,0.6660198,,0.6660198
+2000,Vegetables,Pounds,Eggplant,0.806991037,,0.806991037
+2001,Vegetables,Pounds,Eggplant,0.832392021,,0.832392021
+2002,Vegetables,Pounds,Eggplant,0.719065319,,0.719065319
+2003,Vegetables,Pounds,Eggplant,0.725464468,,0.725464468
+2004,Vegetables,Pounds,Eggplant,0.724736733,,0.724736733
+2005,Vegetables,Pounds,Eggplant,0.84986249,,0.84986249
+2006,Vegetables,Pounds,Eggplant,0.851083988,,0.851083988
+2007,Vegetables,Pounds,Eggplant,0.855130853,,0.855130853
+2008,Vegetables,Pounds,Eggplant,0.776533727,,0.776533727
+2009,Vegetables,Pounds,Eggplant,0.805244477,,0.805244477
+2010,Vegetables,Pounds,Eggplant,0.7420478,,0.7420478
+2011,Vegetables,Pounds,Eggplant,0.711951578,,0.711951578
+2012,Vegetables,Pounds,Eggplant,0.80567958,,0.80567958
+2013,Vegetables,Pounds,Eggplant,0.847957778,,0.847957778
+2014,Vegetables,Pounds,Eggplant,0.846481091,,0.846481091
+2015,Vegetables,Pounds,Eggplant,0.846698526,,0.846698526
+2016,Vegetables,Pounds,Eggplant,0.863815503,,0.863815503
+2017,Vegetables,Pounds,Eggplant,0.860082313,,0.860082313
+1970,Vegetables,Pounds,Escarole,0.556444219,,0.556444219
+1971,Vegetables,Pounds,Escarole,0.56534448,,0.56534448
+1972,Vegetables,Pounds,Escarole,0.570758852,,0.570758852
+1973,Vegetables,Pounds,Escarole,0.576662624,,0.576662624
+1974,Vegetables,Pounds,Escarole,0.534009184,,0.534009184
+1975,Vegetables,Pounds,Escarole,0.513027091,,0.513027091
+1976,Vegetables,Pounds,Escarole,0.517348132,,0.517348132
+1977,Vegetables,Pounds,Escarole,0.471760224,,0.471760224
+1978,Vegetables,Pounds,Escarole,0.479367433,,0.479367433
+1979,Vegetables,Pounds,Escarole,0.492768434,,0.492768434
+1980,Vegetables,Pounds,Escarole,0.451419689,,0.451419689
+1981,Vegetables,Pounds,Escarole,0.443108981,,0.443108981
+1982,Vegetables,Pounds,Escarole,0.37728048,,0.37728048
+1983,Vegetables,Pounds,Escarole,0.394781206,,0.394781206
+1984,Vegetables,Pounds,Escarole,0.387140995,,0.387140995
+1985,Vegetables,Pounds,Escarole,0.389154009,,0.389154009
+1986,Vegetables,Pounds,Escarole,0.366090313,,0.366090313
+1987,Vegetables,Pounds,Escarole,0.341427654,,0.341427654
+1988,Vegetables,Pounds,Escarole,0.357520376,,0.357520376
+1989,Vegetables,Pounds,Escarole,0.330225322,,0.330225322
+1990,Vegetables,Pounds,Escarole,0.262328467,,0.262328467
+1991,Vegetables,Pounds,Escarole,0.246751953,,0.246751953
+1992,Vegetables,Pounds,Escarole,0.320002327,,0.320002327
+1993,Vegetables,Pounds,Escarole,0.300497847,,0.300497847
+1994,Vegetables,Pounds,Escarole,0.328826298,,0.328826298
+1995,Vegetables,Pounds,Escarole,0.304080337,,0.304080337
+1996,Vegetables,Pounds,Escarole,0.31911182,,0.31911182
+1997,Vegetables,Pounds,Escarole,0.299432374,,0.299432374
+1998,Vegetables,Pounds,Escarole,0.304217355,,0.304217355
+1999,Vegetables,Pounds,Escarole,0.22510256,,0.22510256
+2000,Vegetables,Pounds,Escarole,0.344644394,,0.344644394
+2001,Vegetables,Pounds,Escarole,0.350208434,,0.350208434
+2002,Vegetables,Pounds,Escarole,0.3097366,,0.3097366
+2003,Vegetables,Pounds,Escarole,0.323661124,,0.323661124
+2004,Vegetables,Pounds,Escarole,0.311734396,,0.311734396
+2005,Vegetables,Pounds,Escarole,0.252824996,,0.252824996
+2006,Vegetables,Pounds,Escarole,0.312543949,,0.312543949
+2007,Vegetables,Pounds,Escarole,0.266422741,,0.266422741
+2008,Vegetables,Pounds,Escarole,0.214270607,,0.214270607
+2009,Vegetables,Pounds,Escarole,0.179223069,,0.179223069
+2010,Vegetables,Pounds,Escarole,0.177741845,,0.177741845
+2011,Vegetables,Pounds,Escarole,0.277001418,,0.277001418
+2012,Vegetables,Pounds,Escarole,0.257354316,,0.257354316
+2013,Vegetables,Pounds,Escarole,0.191113182,,0.191113182
+2014,Vegetables,Pounds,Escarole,0.172708245,,0.172708245
+2015,Vegetables,Pounds,Escarole,0.085435247,,0.085435247
+2016,Vegetables,Pounds,Escarole,0.038186851,,0.038186851
+2017,Vegetables,Pounds,Escarole,0.040859825,,0.040859825
+1970,Vegetables,Pounds,Garlic,0.442541404,,0.442541404
+1971,Vegetables,Pounds,Garlic,0.299228069,,0.299228069
+1972,Vegetables,Pounds,Garlic,0.38578153,,0.38578153
+1973,Vegetables,Pounds,Garlic,0.522422361,,0.522422361
+1974,Vegetables,Pounds,Garlic,0.653529978,,0.653529978
+1975,Vegetables,Pounds,Garlic,0.72227547,,0.72227547
+1976,Vegetables,Pounds,Garlic,0.479977985,,0.479977985
+1977,Vegetables,Pounds,Garlic,0.595316906,,0.595316906
+1978,Vegetables,Pounds,Garlic,0.623941416,,0.623941416
+1979,Vegetables,Pounds,Garlic,0.92114372,,0.92114372
+1980,Vegetables,Pounds,Garlic,0.860894233,,0.860894233
+1981,Vegetables,Pounds,Garlic,0.659227886,,0.659227886
+1982,Vegetables,Pounds,Garlic,0.757179527,,0.757179527
+1983,Vegetables,Pounds,Garlic,0.997460597,,0.997460597
+1984,Vegetables,Pounds,Garlic,0.768883172,,0.768883172
+1985,Vegetables,Pounds,Garlic,1.061618847,,1.061618847
+1986,Vegetables,Pounds,Garlic,0.766047097,,0.766047097
+1987,Vegetables,Pounds,Garlic,1.18750103,,1.18750103
+1988,Vegetables,Pounds,Garlic,1.0862824,,1.0862824
+1989,Vegetables,Pounds,Garlic,1.014619434,,1.014619434
+1990,Vegetables,Pounds,Garlic,1.40714587,,1.40714587
+1991,Vegetables,Pounds,Garlic,1.487159354,,1.487159354
+1992,Vegetables,Pounds,Garlic,1.460552122,,1.460552122
+1993,Vegetables,Pounds,Garlic,1.745609695,,1.745609695
+1994,Vegetables,Pounds,Garlic,1.797135562,,1.797135562
+1995,Vegetables,Pounds,Garlic,1.849798098,,1.849798098
+1996,Vegetables,Pounds,Garlic,2.294634068,,2.294634068
+1997,Vegetables,Pounds,Garlic,1.995114302,,1.995114302
+1998,Vegetables,Pounds,Garlic,2.584258482,,2.584258482
+1999,Vegetables,Pounds,Garlic,3.292412402,,3.292412402
+2000,Vegetables,Pounds,Garlic,2.220297806,,2.220297806
+2001,Vegetables,Pounds,Garlic,2.415699505,,2.415699505
+2002,Vegetables,Pounds,Garlic,2.499925115,,2.499925115
+2003,Vegetables,Pounds,Garlic,2.827175292,,2.827175292
+2004,Vegetables,Pounds,Garlic,2.567026221,,2.567026221
+2005,Vegetables,Pounds,Garlic,2.436596583,,2.436596583
+2006,Vegetables,Pounds,Garlic,2.694302196,,2.694302196
+2007,Vegetables,Pounds,Garlic,2.719991235,,2.719991235
+2008,Vegetables,Pounds,Garlic,2.764905759,,2.764905759
+2009,Vegetables,Pounds,Garlic,2.446470481,,2.446470481
+2010,Vegetables,Pounds,Garlic,2.343504891,,2.343504891
+2011,Vegetables,Pounds,Garlic,2.318996864,,2.318996864
+2012,Vegetables,Pounds,Garlic,2.295013455,,2.295013455
+2013,Vegetables,Pounds,Garlic,2.258381635,,2.258381635
+2014,Vegetables,Pounds,Garlic,2.239341109,,2.239341109
+2015,Vegetables,Pounds,Garlic,2.381143193,,2.381143193
+2016,Vegetables,Pounds,Garlic,2.930983687,,2.930983687
+2017,Vegetables,Pounds,Garlic,2.998196789,,2.998196789
+1970,Vegetables,Pounds,Kale,,,
+1971,Vegetables,Pounds,Kale,,,
+1972,Vegetables,Pounds,Kale,,,
+1973,Vegetables,Pounds,Kale,,,
+1974,Vegetables,Pounds,Kale,,,
+1975,Vegetables,Pounds,Kale,,,
+1976,Vegetables,Pounds,Kale,,,
+1977,Vegetables,Pounds,Kale,,,
+1978,Vegetables,Pounds,Kale,,,
+1979,Vegetables,Pounds,Kale,,,
+1980,Vegetables,Pounds,Kale,,,
+1981,Vegetables,Pounds,Kale,,,
+1982,Vegetables,Pounds,Kale,,,
+1983,Vegetables,Pounds,Kale,,,
+1984,Vegetables,Pounds,Kale,,,
+1985,Vegetables,Pounds,Kale,,,
+1986,Vegetables,Pounds,Kale,,,
+1987,Vegetables,Pounds,Kale,,,
+1988,Vegetables,Pounds,Kale,,,
+1989,Vegetables,Pounds,Kale,,,
+1990,Vegetables,Pounds,Kale,,,
+1991,Vegetables,Pounds,Kale,,,
+1992,Vegetables,Pounds,Kale,,,
+1993,Vegetables,Pounds,Kale,,,
+1994,Vegetables,Pounds,Kale,,,
+1995,Vegetables,Pounds,Kale,,,
+1996,Vegetables,Pounds,Kale,,,
+1997,Vegetables,Pounds,Kale,0.423554113,,0.423554113
+1998,Vegetables,Pounds,Kale,0.404208754,,0.404208754
+1999,Vegetables,Pounds,Kale,0.385338799,,0.385338799
+2000,Vegetables,Pounds,Kale,0.384716964,,0.384716964
+2001,Vegetables,Pounds,Kale,0.366807192,,0.366807192
+2002,Vegetables,Pounds,Kale,0.345713876,,0.345713876
+2003,Vegetables,Pounds,Kale,0.309202141,,0.309202141
+2004,Vegetables,Pounds,Kale,0.321694889,,0.321694889
+2005,Vegetables,Pounds,Kale,0.35131376,,0.35131376
+2006,Vegetables,Pounds,Kale,0.314778415,,0.314778415
+2007,Vegetables,Pounds,Kale,0.337102074,,0.337102074
+2008,Vegetables,Pounds,Kale,0.374611081,,0.374611081
+2009,Vegetables,Pounds,Kale,0.405961154,,0.405961154
+2010,Vegetables,Pounds,Kale,0.456918433,,0.456918433
+2011,Vegetables,Pounds,Kale,0.513026116,,0.513026116
+2012,Vegetables,Pounds,Kale,0.464079572,,0.464079572
+2013,Vegetables,Pounds,Kale,0.5576199,,0.5576199
+2014,Vegetables,Pounds,Kale,0.515106539,,0.515106539
+2015,Vegetables,Pounds,Kale,0.580721594,,0.580721594
+2016,Vegetables,Pounds,Kale,0.5337267,,0.5337267
+2017,Vegetables,Pounds,Kale,0.531432604,,0.531432604
+1970,Vegetables,Pounds,Head lettuce,22.37627529,,22.37627529
+1971,Vegetables,Pounds,Head lettuce,22.38455945,,22.38455945
+1972,Vegetables,Pounds,Head lettuce,22.43920799,,22.43920799
+1973,Vegetables,Pounds,Head lettuce,23.12266114,,23.12266114
+1974,Vegetables,Pounds,Head lettuce,23.50108018,,23.50108018
+1975,Vegetables,Pounds,Head lettuce,23.53720141,,23.53720141
+1976,Vegetables,Pounds,Head lettuce,24.22638567,,24.22638567
+1977,Vegetables,Pounds,Head lettuce,25.82421824,,25.82421824
+1978,Vegetables,Pounds,Head lettuce,25.06907474,,25.06907474
+1979,Vegetables,Pounds,Head lettuce,25.0983093,,25.0983093
+1980,Vegetables,Pounds,Head lettuce,25.63124105,,25.63124105
+1981,Vegetables,Pounds,Head lettuce,24.91063896,,24.91063896
+1982,Vegetables,Pounds,Head lettuce,24.93625855,,24.93625855
+1983,Vegetables,Pounds,Head lettuce,22.44277806,,22.44277806
+1984,Vegetables,Pounds,Head lettuce,24.94076531,,24.94076531
+1985,Vegetables,Pounds,Head lettuce,23.67213775,,23.67213775
+1986,Vegetables,Pounds,Head lettuce,21.93716211,,21.93716211
+1987,Vegetables,Pounds,Head lettuce,25.70880216,,25.70880216
+1988,Vegetables,Pounds,Head lettuce,27.04013125,,27.04013125
+1989,Vegetables,Pounds,Head lettuce,28.68538299,,28.68538299
+1990,Vegetables,Pounds,Head lettuce,27.74687862,,27.74687862
+1991,Vegetables,Pounds,Head lettuce,26.04484363,,26.04484363
+1992,Vegetables,Pounds,Head lettuce,25.79059773,,25.79059773
+1993,Vegetables,Pounds,Head lettuce,24.40003547,,24.40003547
+1994,Vegetables,Pounds,Head lettuce,25.0066199,,25.0066199
+1995,Vegetables,Pounds,Head lettuce,22.16710316,,22.16710316
+1996,Vegetables,Pounds,Head lettuce,21.57493627,,21.57493627
+1997,Vegetables,Pounds,Head lettuce,23.90161923,,23.90161923
+1998,Vegetables,Pounds,Head lettuce,22.32495241,,22.32495241
+1999,Vegetables,Pounds,Head lettuce,24.90906368,,24.90906368
+2000,Vegetables,Pounds,Head lettuce,23.46062812,,23.46062812
+2001,Vegetables,Pounds,Head lettuce,22.98808312,,22.98808312
+2002,Vegetables,Pounds,Head lettuce,22.54256417,,22.54256417
+2003,Vegetables,Pounds,Head lettuce,22.23150145,,22.23150145
+2004,Vegetables,Pounds,Head lettuce,21.25802325,,21.25802325
+2005,Vegetables,Pounds,Head lettuce,20.91306028,,20.91306028
+2006,Vegetables,Pounds,Head lettuce,20.05372572,,20.05372572
+2007,Vegetables,Pounds,Head lettuce,18.37563952,,18.37563952
+2008,Vegetables,Pounds,Head lettuce,16.8495522,,16.8495522
+2009,Vegetables,Pounds,Head lettuce,16.10626657,,16.10626657
+2010,Vegetables,Pounds,Head lettuce,15.92533629,,15.92533629
+2011,Vegetables,Pounds,Head lettuce,15.78618426,,15.78618426
+2012,Vegetables,Pounds,Head lettuce,15.94037696,,15.94037696
+2013,Vegetables,Pounds,Head lettuce,14.08743074,,14.08743074
+2014,Vegetables,Pounds,Head lettuce,14.47753107,,14.47753107
+2015,Vegetables,Pounds,Head lettuce,13.5540403,,13.5540403
+2016,Vegetables,Pounds,Head lettuce,14.1994653,,14.1994653
+2017,Vegetables,Pounds,Head lettuce,13.17862689,,13.17862689
+1970,Vegetables,Pounds,Romaine lettuce,,,
+1971,Vegetables,Pounds,Romaine lettuce,,,
+1972,Vegetables,Pounds,Romaine lettuce,,,
+1973,Vegetables,Pounds,Romaine lettuce,,,
+1974,Vegetables,Pounds,Romaine lettuce,,,
+1975,Vegetables,Pounds,Romaine lettuce,,,
+1976,Vegetables,Pounds,Romaine lettuce,,,
+1977,Vegetables,Pounds,Romaine lettuce,,,
+1978,Vegetables,Pounds,Romaine lettuce,,,
+1979,Vegetables,Pounds,Romaine lettuce,,,
+1980,Vegetables,Pounds,Romaine lettuce,,,
+1981,Vegetables,Pounds,Romaine lettuce,,,
+1982,Vegetables,Pounds,Romaine lettuce,,,
+1983,Vegetables,Pounds,Romaine lettuce,,,
+1984,Vegetables,Pounds,Romaine lettuce,,,
+1985,Vegetables,Pounds,Romaine lettuce,3.265455033,,3.265455033
+1986,Vegetables,Pounds,Romaine lettuce,2.373561714,,2.373561714
+1987,Vegetables,Pounds,Romaine lettuce,2.524670104,,2.524670104
+1988,Vegetables,Pounds,Romaine lettuce,3.200541994,,3.200541994
+1989,Vegetables,Pounds,Romaine lettuce,3.563486994,,3.563486994
+1990,Vegetables,Pounds,Romaine lettuce,3.770263249,,3.770263249
+1991,Vegetables,Pounds,Romaine lettuce,3.996713673,,3.996713673
+1992,Vegetables,Pounds,Romaine lettuce,4.669613339,,4.669613339
+1993,Vegetables,Pounds,Romaine lettuce,5.041706069,,5.041706069
+1994,Vegetables,Pounds,Romaine lettuce,5.678224506,,5.678224506
+1995,Vegetables,Pounds,Romaine lettuce,5.894545332,,5.894545332
+1996,Vegetables,Pounds,Romaine lettuce,5.817609607,,5.817609607
+1997,Vegetables,Pounds,Romaine lettuce,6.594743797,,6.594743797
+1998,Vegetables,Pounds,Romaine lettuce,6.614551013,,6.614551013
+1999,Vegetables,Pounds,Romaine lettuce,7.591576494,,7.591576494
+2000,Vegetables,Pounds,Romaine lettuce,8.385003901,,8.385003901
+2001,Vegetables,Pounds,Romaine lettuce,8.027237482,,8.027237482
+2002,Vegetables,Pounds,Romaine lettuce,9.593943621,,9.593943621
+2003,Vegetables,Pounds,Romaine lettuce,10.82055709,,10.82055709
+2004,Vegetables,Pounds,Romaine lettuce,11.98333284,,11.98333284
+2005,Vegetables,Pounds,Romaine lettuce,9.665887992,,9.665887992
+2006,Vegetables,Pounds,Romaine lettuce,11.98020098,,11.98020098
+2007,Vegetables,Pounds,Romaine lettuce,11.54250451,,11.54250451
+2008,Vegetables,Pounds,Romaine lettuce,10.40675346,,10.40675346
+2009,Vegetables,Pounds,Romaine lettuce,9.995773323,,9.995773323
+2010,Vegetables,Pounds,Romaine lettuce,12.01000479,,12.01000479
+2011,Vegetables,Pounds,Romaine lettuce,11.72507799,,11.72507799
+2012,Vegetables,Pounds,Romaine lettuce,11.92402966,,11.92402966
+2013,Vegetables,Pounds,Romaine lettuce,11.41817004,,11.41817004
+2014,Vegetables,Pounds,Romaine lettuce,10.79059575,,10.79059575
+2015,Vegetables,Pounds,Romaine lettuce,11.0085521,,11.0085521
+2016,Vegetables,Pounds,Romaine lettuce,12.66810042,,12.66810042
+2017,Vegetables,Pounds,Romaine lettuce,12.54360983,,12.54360983
+1970,Vegetables,Pounds,Mushrooms,0.287580513,0.993348017,1.28092853
+1971,Vegetables,Pounds,Mushrooms,0.321617119,1.147046003,1.468663121
+1972,Vegetables,Pounds,Mushrooms,0.368371171,1.258988019,1.62735919
+1973,Vegetables,Pounds,Mushrooms,0.484837785,1.228603929,1.713441714
+1974,Vegetables,Pounds,Mushrooms,0.593597956,1.228270058,1.821868014
+1975,Vegetables,Pounds,Mushrooms,0.661240119,1.245725372,1.906965491
+1976,Vegetables,Pounds,Mushrooms,0.696685783,1.459642092,2.156327875
+1977,Vegetables,Pounds,Mushrooms,0.871798849,1.635116111,2.50691496
+1978,Vegetables,Pounds,Mushrooms,1.03550505,1.679004462,2.714509512
+1979,Vegetables,Pounds,Mushrooms,1.143396538,1.75334624,2.896742778
+1980,Vegetables,Pounds,Mushrooms,1.210105639,1.544390631,2.75449627
+1981,Vegetables,Pounds,Mushrooms,1.391825271,1.548502467,2.940327738
+1982,Vegetables,Pounds,Mushrooms,1.455793257,1.525753837,2.981547094
+1983,Vegetables,Pounds,Mushrooms,1.66129887,1.821380395,3.482679266
+1984,Vegetables,Pounds,Mushrooms,1.780143824,1.776299908,3.556443732
+1985,Vegetables,Pounds,Mushrooms,1.792863215,1.82587868,3.618741896
+1986,Vegetables,Pounds,Mushrooms,1.900441871,1.897140012,3.797581882
+1987,Vegetables,Pounds,Mushrooms,1.943060215,1.65803527,3.601095485
+1988,Vegetables,Pounds,Mushrooms,2.000890459,1.558008939,3.558899399
+1989,Vegetables,Pounds,Mushrooms,2.06360689,1.544272363,3.607879254
+1990,Vegetables,Pounds,Mushrooms,2.017306387,1.720428244,3.737734631
+1991,Vegetables,Pounds,Mushrooms,1.950465459,1.754286767,3.704752226
+1992,Vegetables,Pounds,Mushrooms,2.011393463,1.704255802,3.715649265
+1993,Vegetables,Pounds,Mushrooms,1.998180614,1.750990034,3.749170648
+1994,Vegetables,Pounds,Mushrooms,2.044790922,2.039831826,4.084622748
+1995,Vegetables,Pounds,Mushrooms,2.047416646,1.756316182,3.803732828
+1996,Vegetables,Pounds,Mushrooms,2.10355902,1.846329617,3.949888637
+1997,Vegetables,Pounds,Mushrooms,2.341229784,1.673409684,4.014639467
+1998,Vegetables,Pounds,Mushrooms,2.477006035,1.412494434,3.889500469
+1999,Vegetables,Pounds,Mushrooms,2.505120468,1.588774852,4.09389532
+2000,Vegetables,Pounds,Mushrooms,2.604047798,1.498318404,4.102366202
+2001,Vegetables,Pounds,Mushrooms,2.594273532,1.35802876,3.952302291
+2002,Vegetables,Pounds,Mushrooms,2.63199753,1.499993628,4.131991158
+2003,Vegetables,Pounds,Mushrooms,2.656034515,1.526537775,4.18257229
+2004,Vegetables,Pounds,Mushrooms,2.619713814,1.567216254,4.186930069
+2005,Vegetables,Pounds,Mushrooms,2.649309129,1.316375553,3.965684682
+2006,Vegetables,Pounds,Mushrooms,2.580862518,1.487318038,4.068180556
+2007,Vegetables,Pounds,Mushrooms,2.481341114,1.444651585,3.925992699
+2008,Vegetables,Pounds,Mushrooms,2.462283794,1.189124527,3.651408321
+2009,Vegetables,Pounds,Mushrooms,2.436209562,1.147099997,3.583309559
+2010,Vegetables,Pounds,Mushrooms,2.601842819,1.260629881,3.8624727
+2011,Vegetables,Pounds,Mushrooms,2.763355607,1.259614597,4.022970204
+2012,Vegetables,Pounds,Mushrooms,2.740955766,1.092077644,3.83303341
+2013,Vegetables,Pounds,Mushrooms,2.749521809,1.044944746,3.794466555
+2014,Vegetables,Pounds,Mushrooms,2.914513021,1.059726501,3.974239522
+2015,Vegetables,Pounds,Mushrooms,2.984999477,1.047407012,4.032406489
+2016,Vegetables,Pounds,Mushrooms,2.958267744,1.011356396,3.96962414
+1970,Vegetables,Pounds,Mustard greens,,,
+1971,Vegetables,Pounds,Mustard greens,,,
+1972,Vegetables,Pounds,Mustard greens,,,
+1973,Vegetables,Pounds,Mustard greens,,,
+1974,Vegetables,Pounds,Mustard greens,,,
+1975,Vegetables,Pounds,Mustard greens,,,
+1976,Vegetables,Pounds,Mustard greens,,,
+1977,Vegetables,Pounds,Mustard greens,,,
+1978,Vegetables,Pounds,Mustard greens,,,
+1979,Vegetables,Pounds,Mustard greens,,,
+1980,Vegetables,Pounds,Mustard greens,,,
+1981,Vegetables,Pounds,Mustard greens,,,
+1982,Vegetables,Pounds,Mustard greens,,,
+1983,Vegetables,Pounds,Mustard greens,,,
+1984,Vegetables,Pounds,Mustard greens,,,
+1985,Vegetables,Pounds,Mustard greens,,,
+1986,Vegetables,Pounds,Mustard greens,,,
+1987,Vegetables,Pounds,Mustard greens,,,
+1988,Vegetables,Pounds,Mustard greens,,,
+1989,Vegetables,Pounds,Mustard greens,,,
+1990,Vegetables,Pounds,Mustard greens,,,
+1991,Vegetables,Pounds,Mustard greens,,,
+1992,Vegetables,Pounds,Mustard greens,,,
+1993,Vegetables,Pounds,Mustard greens,,,
+1994,Vegetables,Pounds,Mustard greens,,,
+1995,Vegetables,Pounds,Mustard greens,,,
+1996,Vegetables,Pounds,Mustard greens,,,
+1997,Vegetables,Pounds,Mustard greens,0.681843232,,0.681843232
+1998,Vegetables,Pounds,Mustard greens,0.685031672,,0.685031672
+1999,Vegetables,Pounds,Mustard greens,0.688203656,,0.688203656
+2000,Vegetables,Pounds,Mustard greens,0.734930821,,0.734930821
+2001,Vegetables,Pounds,Mustard greens,0.781100579,,0.781100579
+2002,Vegetables,Pounds,Mustard greens,0.69869756,,0.69869756
+2003,Vegetables,Pounds,Mustard greens,0.799041567,,0.799041567
+2004,Vegetables,Pounds,Mustard greens,0.779984152,,0.779984152
+2005,Vegetables,Pounds,Mustard greens,0.680929637,,0.680929637
+2006,Vegetables,Pounds,Mustard greens,0.510846606,,0.510846606
+2007,Vegetables,Pounds,Mustard greens,0.395180923,,0.395180923
+2008,Vegetables,Pounds,Mustard greens,0.324136721,,0.324136721
+2009,Vegetables,Pounds,Mustard greens,0.30945402,,0.30945402
+2010,Vegetables,Pounds,Mustard greens,0.30920706,,0.30920706
+2011,Vegetables,Pounds,Mustard greens,0.297764228,,0.297764228
+2012,Vegetables,Pounds,Mustard greens,0.237875769,,0.237875769
+2013,Vegetables,Pounds,Mustard greens,0.221715312,,0.221715312
+2014,Vegetables,Pounds,Mustard greens,0.392192534,,0.392192534
+2015,Vegetables,Pounds,Mustard greens,0.27570027,,0.27570027
+2016,Vegetables,Pounds,Mustard greens,0.224065117,,0.224065117
+2017,Vegetables,Pounds,Mustard greens,0.245414163,,0.245414163
+1970,Vegetables,Pounds,Okra,,,
+1971,Vegetables,Pounds,Okra,,,
+1972,Vegetables,Pounds,Okra,,,
+1973,Vegetables,Pounds,Okra,,,
+1974,Vegetables,Pounds,Okra,0.165419179,,0.165419179
+1975,Vegetables,Pounds,Okra,0.183099554,,0.183099554
+1976,Vegetables,Pounds,Okra,0.120589538,,0.120589538
+1977,Vegetables,Pounds,Okra,0.171825449,,0.171825449
+1978,Vegetables,Pounds,Okra,0.350715304,,0.350715304
+1979,Vegetables,Pounds,Okra,0.383011211,,0.383011211
+1980,Vegetables,Pounds,Okra,0.310826291,,0.310826291
+1981,Vegetables,Pounds,Okra,0.343669008,,0.343669008
+1982,Vegetables,Pounds,Okra,0.315761504,,0.315761504
+1983,Vegetables,Pounds,Okra,0.452840794,,0.452840794
+1984,Vegetables,Pounds,Okra,0.445520635,,0.445520635
+1985,Vegetables,Pounds,Okra,0.382687259,,0.382687259
+1986,Vegetables,Pounds,Okra,0.28527349,,0.28527349
+1987,Vegetables,Pounds,Okra,0.213707638,,0.213707638
+1988,Vegetables,Pounds,Okra,0.414808094,,0.414808094
+1989,Vegetables,Pounds,Okra,0.438350438,,0.438350438
+1990,Vegetables,Pounds,Okra,0.243508291,,0.243508291
+1991,Vegetables,Pounds,Okra,0.246351673,,0.246351673
+1992,Vegetables,Pounds,Okra,0.283378086,,0.283378086
+1993,Vegetables,Pounds,Okra,0.383614297,,0.383614297
+1994,Vegetables,Pounds,Okra,0.243125683,,0.243125683
+1995,Vegetables,Pounds,Okra,0.382045293,,0.382045293
+1996,Vegetables,Pounds,Okra,0.336710254,,0.336710254
+1997,Vegetables,Pounds,Okra,0.230383539,,0.230383539
+1998,Vegetables,Pounds,Okra,0.28518904,,0.28518904
+1999,Vegetables,Pounds,Okra,0.271268517,,0.271268517
+2000,Vegetables,Pounds,Okra,0.214579013,,0.214579013
+2001,Vegetables,Pounds,Okra,0.274704339,,0.274704339
+2002,Vegetables,Pounds,Okra,0.224047515,,0.224047515
+2003,Vegetables,Pounds,Okra,0.334985338,,0.334985338
+2004,Vegetables,Pounds,Okra,0.390593132,,0.390593132
+2005,Vegetables,Pounds,Okra,0.443048665,,0.443048665
+2006,Vegetables,Pounds,Okra,0.407138797,,0.407138797
+2007,Vegetables,Pounds,Okra,0.451393657,,0.451393657
+2008,Vegetables,Pounds,Okra,0.449169927,,0.449169927
+2009,Vegetables,Pounds,Okra,0.452931344,,0.452931344
+2010,Vegetables,Pounds,Okra,0.41188056,,0.41188056
+2011,Vegetables,Pounds,Okra,0.462663755,,0.462663755
+2012,Vegetables,Pounds,Okra,0.422537619,,0.422537619
+2013,Vegetables,Pounds,Okra,0.307832555,,0.307832555
+2014,Vegetables,Pounds,Okra,0.399786036,,0.399786036
+2015,Vegetables,Pounds,Okra,0.381126931,,0.381126931
+2016,Vegetables,Pounds,Okra,0.527726795,,0.527726795
+2017,Vegetables,Pounds,Okra,0.387174047,,0.387174047
+1970,Vegetables,Pounds,Onions,10.14376841,1.180270273,11.32403868
+1971,Vegetables,Pounds,Onions,10.72565383,1.491348929,12.21700276
+1972,Vegetables,Pounds,Onions,10.69767885,0.875808019,11.57348687
+1973,Vegetables,Pounds,Onions,10.24071653,1.154384193,11.39510073
+1974,Vegetables,Pounds,Onions,11.18566873,1.54353919,12.72920792
+1975,Vegetables,Pounds,Onions,10.50362777,1.964422173,12.46804994
+1976,Vegetables,Pounds,Onions,11.00603114,0.758841791,11.76487293
+1977,Vegetables,Pounds,Onions,11.0675221,1.336252072,12.40377417
+1978,Vegetables,Pounds,Onions,10.91717771,1.305512336,12.22269004
+1979,Vegetables,Pounds,Onions,11.44386928,1.927320015,13.37118929
+1980,Vegetables,Pounds,Onions,11.38258258,0.77067212,12.1532547
+1981,Vegetables,Pounds,Onions,10.73406938,0.821243013,11.5553124
+1982,Vegetables,Pounds,Onions,12.24408669,2.004422056,14.24850874
+1983,Vegetables,Pounds,Onions,12.16541973,1.657058176,13.8224779
+1984,Vegetables,Pounds,Onions,13.07655237,1.483560706,14.56011308
+1985,Vegetables,Pounds,Onions,13.6238793,1.572926888,15.19680618
+1986,Vegetables,Pounds,Onions,13.73602021,1.890744899,15.62676511
+1987,Vegetables,Pounds,Onions,13.41110937,1.519009165,14.93011854
+1988,Vegetables,Pounds,Onions,14.54869583,1.667935715,16.21663154
+1989,Vegetables,Pounds,Onions,14.76295979,1.613561089,16.37652088
+1990,Vegetables,Pounds,Onions,15.06025761,2.133993365,17.19425098
+1991,Vegetables,Pounds,Onions,15.68679077,1.571878504,17.25866928
+1992,Vegetables,Pounds,Onions,16.10070765,1.435965091,17.53667274
+1993,Vegetables,Pounds,Onions,17.17351825,1.992550334,19.16606858
+1994,Vegetables,Pounds,Onions,16.91777588,0.945213626,17.86298951
+1995,Vegetables,Pounds,Onions,17.78147584,1.321189846,19.10266569
+1996,Vegetables,Pounds,Onions,18.32287712,0.842083847,19.16496097
+1997,Vegetables,Pounds,Onions,18.8394127,0.893372702,19.73278541
+1998,Vegetables,Pounds,Onions,18.40013614,1.092914666,19.49305081
+1999,Vegetables,Pounds,Onions,18.47830483,2.254389554,20.73269438
+2000,Vegetables,Pounds,Onions,18.87376661,1.557413089,20.4311797
+2001,Vegetables,Pounds,Onions,18.46765175,1.037348579,19.50500033
+2002,Vegetables,Pounds,Onions,19.32333215,1.079571492,20.40290364
+2003,Vegetables,Pounds,Onions,19.50712922,1.847828969,21.35495819
+2004,Vegetables,Pounds,Onions,21.91722494,1.460330101,23.37755504
+2005,Vegetables,Pounds,Onions,20.89745026,1.137180782,22.03463105
+2006,Vegetables,Pounds,Onions,19.9157584,1.766456783,21.68221518
+2007,Vegetables,Pounds,Onions,21.61228818,1.023073225,22.63536141
+2008,Vegetables,Pounds,Onions,20.18482272,1.508316219,21.69313894
+2009,Vegetables,Pounds,Onions,19.58157481,1.92033907,21.50191388
+2010,Vegetables,Pounds,Onions,19.58137831,1.338013176,20.91939149
+2011,Vegetables,Pounds,Onions,19.11521625,1.309087654,20.4243039
+2012,Vegetables,Pounds,Onions,19.537043,1.286014292,20.82305729
+2013,Vegetables,Pounds,Onions,18.47714537,0.95805337,19.43519874
+2014,Vegetables,Pounds,Onions,18.35035392,1.463854724,19.81420865
+2015,Vegetables,Pounds,Onions,18.90100149,1.369929617,20.2709311
+2016,Vegetables,Pounds,Onions,18.97897362,1.802072946,20.78104657
+2017,Vegetables,Pounds,Onions,21.91006147,0.457231391,22.36729287
+1970,Vegetables,Pounds,Green peas,,5.10509033,5.10509033
+1971,Vegetables,Pounds,Green peas,,5.221787909,5.221787909
+1972,Vegetables,Pounds,Green peas,,5.129104943,5.129104943
+1973,Vegetables,Pounds,Green peas,,5.340260675,5.340260675
+1974,Vegetables,Pounds,Green peas,,4.799543723,4.799543723
+1975,Vegetables,Pounds,Green peas,,4.701036353,4.701036353
+1976,Vegetables,Pounds,Green peas,,4.739819378,4.739819378
+1977,Vegetables,Pounds,Green peas,,4.800858968,4.800858968
+1978,Vegetables,Pounds,Green peas,,4.654489502,4.654489502
+1979,Vegetables,Pounds,Green peas,,4.48370506,4.48370506
+1980,Vegetables,Pounds,Green peas,,4.466644626,4.466644626
+1981,Vegetables,Pounds,Green peas,,4.434239965,4.434239965
+1982,Vegetables,Pounds,Green peas,,4.138007708,4.138007708
+1983,Vegetables,Pounds,Green peas,,4.211323432,4.211323432
+1984,Vegetables,Pounds,Green peas,,4.027444937,4.027444937
+1985,Vegetables,Pounds,Green peas,,4.143326834,4.143326834
+1986,Vegetables,Pounds,Green peas,,4.079912782,4.079912782
+1987,Vegetables,Pounds,Green peas,,3.731168803,3.731168803
+1988,Vegetables,Pounds,Green peas,,3.656537521,3.656537521
+1989,Vegetables,Pounds,Green peas,,3.710078978,3.710078978
+1990,Vegetables,Pounds,Green peas,,4.162093179,4.162093179
+1991,Vegetables,Pounds,Green peas,,4.154466513,4.154466513
+1992,Vegetables,Pounds,Green peas,,4.092154654,4.092154654
+1993,Vegetables,Pounds,Green peas,,3.450103119,3.450103119
+1994,Vegetables,Pounds,Green peas,,3.572248696,3.572248696
+1995,Vegetables,Pounds,Green peas,,3.637521922,3.637521922
+1996,Vegetables,Pounds,Green peas,,3.396384979,3.396384979
+1997,Vegetables,Pounds,Green peas,,3.498395811,3.498395811
+1998,Vegetables,Pounds,Green peas,,3.340447635,3.340447635
+1999,Vegetables,Pounds,Green peas,,3.449621721,3.449621721
+2000,Vegetables,Pounds,Green peas,,3.674459045,3.674459045
+2001,Vegetables,Pounds,Green peas,,3.335056855,3.335056855
+2002,Vegetables,Pounds,Green peas,,2.796034929,2.796034929
+2003,Vegetables,Pounds,Green peas,,3.134738037,3.134738037
+2004,Vegetables,Pounds,Green peas,,2.820308226,2.820308226
+2005,Vegetables,Pounds,Green peas,,2.683130443,2.683130443
+2006,Vegetables,Pounds,Green peas,,2.753157258,2.753157258
+2007,Vegetables,Pounds,Green peas,,3.030428796,3.030428796
+2008,Vegetables,Pounds,Green peas,,2.932409183,2.932409183
+2009,Vegetables,Pounds,Green peas,,3.000349076,3.000349076
+2010,Vegetables,Pounds,Green peas,,2.647288212,2.647288212
+2011,Vegetables,Pounds,Green peas,,2.353318591,2.353318591
+2012,Vegetables,Pounds,Green peas,,2.685639615,2.685639615
+2013,Vegetables,Pounds,Green peas,,2.382771048,2.382771048
+2014,Vegetables,Pounds,Green peas,,2.304459552,2.304459552
+2015,Vegetables,Pounds,Green peas,,2.320014544,2.320014544
+2016,Vegetables,Pounds,Green peas,,1.801973862,1.801973862
+2017,Vegetables,Pounds,Green peas,,1.793321174,1.793321174
+1970,Vegetables,Pounds,Bell peppers,2.162866005,,2.162866005
+1971,Vegetables,Pounds,Bell peppers,2.264748797,,2.264748797
+1972,Vegetables,Pounds,Bell peppers,2.403571292,,2.403571292
+1973,Vegetables,Pounds,Bell peppers,2.534106621,,2.534106621
+1974,Vegetables,Pounds,Bell peppers,2.724756142,,2.724756142
+1975,Vegetables,Pounds,Bell peppers,2.48456983,,2.48456983
+1976,Vegetables,Pounds,Bell peppers,2.667003004,,2.667003004
+1977,Vegetables,Pounds,Bell peppers,2.799231744,,2.799231744
+1978,Vegetables,Pounds,Bell peppers,2.766134286,,2.766134286
+1979,Vegetables,Pounds,Bell peppers,2.937504166,,2.937504166
+1980,Vegetables,Pounds,Bell peppers,2.885485188,,2.885485188
+1981,Vegetables,Pounds,Bell peppers,2.786064027,,2.786064027
+1982,Vegetables,Pounds,Bell peppers,2.972160491,,2.972160491
+1983,Vegetables,Pounds,Bell peppers,3.32555152,,3.32555152
+1984,Vegetables,Pounds,Bell peppers,3.62473979,,3.62473979
+1985,Vegetables,Pounds,Bell peppers,3.800122449,,3.800122449
+1986,Vegetables,Pounds,Bell peppers,3.965493599,,3.965493599
+1987,Vegetables,Pounds,Bell peppers,4.229337243,,4.229337243
+1988,Vegetables,Pounds,Bell peppers,4.47553475,,4.47553475
+1989,Vegetables,Pounds,Bell peppers,4.688573109,,4.688573109
+1990,Vegetables,Pounds,Bell peppers,5.881065122,,5.881065122
+1991,Vegetables,Pounds,Bell peppers,6.301204642,,6.301204642
+1992,Vegetables,Pounds,Bell peppers,7.101873467,,7.101873467
+1993,Vegetables,Pounds,Bell peppers,7.630987164,,7.630987164
+1994,Vegetables,Pounds,Bell peppers,7.05924185,,7.05924185
+1995,Vegetables,Pounds,Bell peppers,7.010523397,,7.010523397
+1996,Vegetables,Pounds,Bell peppers,8.068919544,,8.068919544
+1997,Vegetables,Pounds,Bell peppers,7.333957983,,7.333957983
+1998,Vegetables,Pounds,Bell peppers,7.762790862,,7.762790862
+1999,Vegetables,Pounds,Bell peppers,7.719155366,,7.719155366
+2000,Vegetables,Pounds,Bell peppers,8.185645995,,8.185645995
+2001,Vegetables,Pounds,Bell peppers,8.119456,,8.119456
+2002,Vegetables,Pounds,Bell peppers,8.26456995,,8.26456995
+2003,Vegetables,Pounds,Bell peppers,8.414215416,,8.414215416
+2004,Vegetables,Pounds,Bell peppers,8.636785826,,8.636785826
+2005,Vegetables,Pounds,Bell peppers,9.205633458,,9.205633458
+2006,Vegetables,Pounds,Bell peppers,9.457436631,,9.457436631
+2007,Vegetables,Pounds,Bell peppers,9.364322719,,9.364322719
+2008,Vegetables,Pounds,Bell peppers,9.479054225,,9.479054225
+2009,Vegetables,Pounds,Bell peppers,9.800546894,,9.800546894
+2010,Vegetables,Pounds,Bell peppers,10.33031642,,10.33031642
+2011,Vegetables,Pounds,Bell peppers,10.56170091,,10.56170091
+2012,Vegetables,Pounds,Bell peppers,10.74448219,,10.74448219
+2013,Vegetables,Pounds,Bell peppers,10.02418795,,10.02418795
+2014,Vegetables,Pounds,Bell peppers,10.7076213,,10.7076213
+2015,Vegetables,Pounds,Bell peppers,10.72478047,,10.72478047
+2016,Vegetables,Pounds,Bell peppers,11.01386545,,11.01386545
+2017,Vegetables,Pounds,Bell peppers,11.39248481,,11.39248481
+1970,Vegetables,Pounds,Chile peppers,,,
+1971,Vegetables,Pounds,Chile peppers,,,
+1972,Vegetables,Pounds,Chile peppers,,,
+1973,Vegetables,Pounds,Chile peppers,,,
+1974,Vegetables,Pounds,Chile peppers,,,
+1975,Vegetables,Pounds,Chile peppers,,,
+1976,Vegetables,Pounds,Chile peppers,,,
+1977,Vegetables,Pounds,Chile peppers,,,
+1978,Vegetables,Pounds,Chile peppers,,,
+1979,Vegetables,Pounds,Chile peppers,,,
+1980,Vegetables,Pounds,Chile peppers,,3.049041392,3.049041392
+1981,Vegetables,Pounds,Chile peppers,,3.267556943,3.267556943
+1982,Vegetables,Pounds,Chile peppers,,3.054619532,3.054619532
+1983,Vegetables,Pounds,Chile peppers,,3.30937616,3.30937616
+1984,Vegetables,Pounds,Chile peppers,,3.614153706,3.614153706
+1985,Vegetables,Pounds,Chile peppers,,3.910611995,3.910611995
+1986,Vegetables,Pounds,Chile peppers,,4.174917204,4.174917204
+1987,Vegetables,Pounds,Chile peppers,,4.165363833,4.165363833
+1988,Vegetables,Pounds,Chile peppers,,4.314752613,4.314752613
+1989,Vegetables,Pounds,Chile peppers,,4.50389934,4.50389934
+1990,Vegetables,Pounds,Chile peppers,,4.831033775,4.831033775
+1991,Vegetables,Pounds,Chile peppers,,4.513408439,4.513408439
+1992,Vegetables,Pounds,Chile peppers,,5.582278948,5.582278948
+1993,Vegetables,Pounds,Chile peppers,,4.897128705,4.897128705
+1994,Vegetables,Pounds,Chile peppers,,4.104364282,4.104364282
+1995,Vegetables,Pounds,Chile peppers,,3.834074191,3.834074191
+1996,Vegetables,Pounds,Chile peppers,,4.730368186,4.730368186
+1997,Vegetables,Pounds,Chile peppers,,4.586038364,4.586038364
+1998,Vegetables,Pounds,Chile peppers,,4.758195321,4.758195321
+1999,Vegetables,Pounds,Chile peppers,,4.704573309,4.704573309
+2000,Vegetables,Pounds,Chile peppers,,5.153538447,5.153538447
+2001,Vegetables,Pounds,Chile peppers,,5.178842497,5.178842497
+2002,Vegetables,Pounds,Chile peppers,,5.826553366,5.826553366
+2003,Vegetables,Pounds,Chile peppers,,5.609558038,5.609558038
+2004,Vegetables,Pounds,Chile peppers,,6.124099488,6.124099488
+2005,Vegetables,Pounds,Chile peppers,,6.051810841,6.051810841
+2006,Vegetables,Pounds,Chile peppers,,6.357534219,6.357534219
+2007,Vegetables,Pounds,Chile peppers,,5.856545191,5.856545191
+2008,Vegetables,Pounds,Chile peppers,,6.191323237,6.191323237
+2009,Vegetables,Pounds,Chile peppers,,6.579622349,6.579622349
+2010,Vegetables,Pounds,Chile peppers,,6.578719515,6.578719515
+2011,Vegetables,Pounds,Chile peppers,,6.60380271,6.60380271
+2012,Vegetables,Pounds,Chile peppers,,7.196012987,7.196012987
+2013,Vegetables,Pounds,Chile peppers,,6.973102781,6.973102781
+2014,Vegetables,Pounds,Chile peppers,,7.176614393,7.176614393
+2015,Vegetables,Pounds,Chile peppers,,7.108714394,7.108714394
+2016,Vegetables,Pounds,Chile peppers,,7.801216908,7.801216908
+2017,Vegetables,Pounds,Chile peppers,,7.754196537,7.754196537
+1970,Vegetables,Pounds,Potatoes,61.80663929,59.86616322,121.6728025
+1971,Vegetables,Pounds,Potatoes,56.06958938,61.71343584,117.7830252
+1972,Vegetables,Pounds,Potatoes,57.85423257,61.54247675,119.3967093
+1973,Vegetables,Pounds,Potatoes,52.41883544,65.83176458,118.2506
+1974,Vegetables,Pounds,Potatoes,49.35047275,67.8667446,117.2172174
+1975,Vegetables,Pounds,Potatoes,52.64420553,69.32279035,121.9669959
+1976,Vegetables,Pounds,Potatoes,49.44716674,75.85195037,125.2991171
+1977,Vegetables,Pounds,Potatoes,50.07690736,72.04670381,122.1236112
+1978,Vegetables,Pounds,Potatoes,45.96590516,73.424836,119.3907412
+1979,Vegetables,Pounds,Potatoes,49.34556886,68.46353078,117.8090996
+1980,Vegetables,Pounds,Potatoes,51.12158471,63.58996531,114.71155
+1981,Vegetables,Pounds,Potatoes,45.84497274,70.69484654,116.5398193
+1982,Vegetables,Pounds,Potatoes,47.11123745,67.88444123,114.9956787
+1983,Vegetables,Pounds,Potatoes,49.79236216,68.78341646,118.5757786
+1984,Vegetables,Pounds,Potatoes,48.29689272,73.76005331,122.056946
+1985,Vegetables,Pounds,Potatoes,46.30306627,76.10301729,122.4060836
+1986,Vegetables,Pounds,Potatoes,48.82032902,77.15985323,125.9801823
+1987,Vegetables,Pounds,Potatoes,47.93893428,77.98063195,125.9195662
+1988,Vegetables,Pounds,Potatoes,49.61455549,72.77486191,122.3894174
+1989,Vegetables,Pounds,Potatoes,50.03322348,76.96437285,126.9975963
+1990,Vegetables,Pounds,Potatoes,46.74078264,77.25896605,123.9997487
+1991,Vegetables,Pounds,Potatoes,50.20516693,83.75034367,133.9555106
+1992,Vegetables,Pounds,Potatoes,48.32912149,81.46798999,129.7971115
+1993,Vegetables,Pounds,Potatoes,50.13213912,86.3570989,136.489238
+1994,Vegetables,Pounds,Potatoes,49.62886263,86.83225332,136.4611159
+1995,Vegetables,Pounds,Potatoes,49.22196096,87.4021473,136.6241083
+1996,Vegetables,Pounds,Potatoes,49.94244169,94.94665492,144.8890966
+1997,Vegetables,Pounds,Potatoes,47.30676509,90.40449186,137.7112569
+1998,Vegetables,Pounds,Potatoes,46.86408063,90.6866503,137.5507309
+1999,Vegetables,Pounds,Potatoes,47.70718665,88.44965178,136.1568384
+2000,Vegetables,Pounds,Potatoes,47.14720259,90.85992613,138.0071287
+2001,Vegetables,Pounds,Potatoes,46.5703945,92.16130986,138.7317044
+2002,Vegetables,Pounds,Potatoes,44.26645345,87.5699162,131.8363697
+2003,Vegetables,Pounds,Potatoes,46.7783978,91.07267051,137.8510683
+2004,Vegetables,Pounds,Potatoes,45.83852848,88.77290629,134.6114348
+2005,Vegetables,Pounds,Potatoes,41.27099649,84.09906288,125.3700594
+2006,Vegetables,Pounds,Potatoes,38.57794016,85.07349556,123.6514357
+2007,Vegetables,Pounds,Potatoes,38.71129947,85.63805062,124.3493501
+2008,Vegetables,Pounds,Potatoes,37.83252602,80.45302402,118.28555
+2009,Vegetables,Pounds,Potatoes,36.64665807,76.67973871,113.3263968
+2010,Vegetables,Pounds,Potatoes,36.80926663,77.00723311,113.8164997
+2011,Vegetables,Pounds,Potatoes,34.0470308,76.271621,110.3186518
+2012,Vegetables,Pounds,Potatoes,34.53925901,80.21887791,114.7581369
+2013,Vegetables,Pounds,Potatoes,34.54868512,78.86857077,113.4172559
+2014,Vegetables,Pounds,Potatoes,33.59189053,79.36141598,112.9533065
+2015,Vegetables,Pounds,Potatoes,34.12809994,81.15012287,115.2782228
+2016,Vegetables,Pounds,Potatoes,33.62285866,76.40423419,110.0270928
+2017,Vegetables,Pounds,Potatoes,33.37692931,82.39668469,115.773614
+1970,Vegetables,Pounds,Pumpkin,,,
+1971,Vegetables,Pounds,Pumpkin,,,
+1972,Vegetables,Pounds,Pumpkin,,,
+1973,Vegetables,Pounds,Pumpkin,,,
+1974,Vegetables,Pounds,Pumpkin,,,
+1975,Vegetables,Pounds,Pumpkin,,,
+1976,Vegetables,Pounds,Pumpkin,,,
+1977,Vegetables,Pounds,Pumpkin,,,
+1978,Vegetables,Pounds,Pumpkin,,,
+1979,Vegetables,Pounds,Pumpkin,,,
+1980,Vegetables,Pounds,Pumpkin,,,
+1981,Vegetables,Pounds,Pumpkin,,,
+1982,Vegetables,Pounds,Pumpkin,,,
+1983,Vegetables,Pounds,Pumpkin,,,
+1984,Vegetables,Pounds,Pumpkin,,,
+1985,Vegetables,Pounds,Pumpkin,,,
+1986,Vegetables,Pounds,Pumpkin,,,
+1987,Vegetables,Pounds,Pumpkin,3.013690055,,3.013690055
+1988,Vegetables,Pounds,Pumpkin,3.80591726,,3.80591726
+1989,Vegetables,Pounds,Pumpkin,4.820006305,,4.820006305
+1990,Vegetables,Pounds,Pumpkin,4.433463435,,4.433463435
+1991,Vegetables,Pounds,Pumpkin,4.429190746,,4.429190746
+1992,Vegetables,Pounds,Pumpkin,4.057538342,,4.057538342
+1993,Vegetables,Pounds,Pumpkin,5.125577906,,5.125577906
+1994,Vegetables,Pounds,Pumpkin,5.491415785,,5.491415785
+1995,Vegetables,Pounds,Pumpkin,5.896322928,,5.896322928
+1996,Vegetables,Pounds,Pumpkin,5.774851783,,5.774851783
+1997,Vegetables,Pounds,Pumpkin,5.64838388,,5.64838388
+1998,Vegetables,Pounds,Pumpkin,6.356542121,,6.356542121
+1999,Vegetables,Pounds,Pumpkin,5.92051614,,5.92051614
+2000,Vegetables,Pounds,Pumpkin,4.598884798,,4.598884798
+2001,Vegetables,Pounds,Pumpkin,4.102344395,,4.102344395
+2002,Vegetables,Pounds,Pumpkin,4.01274162,,4.01274162
+2003,Vegetables,Pounds,Pumpkin,3.760923425,,3.760923425
+2004,Vegetables,Pounds,Pumpkin,4.512471111,,4.512471111
+2005,Vegetables,Pounds,Pumpkin,4.790842644,,4.790842644
+2006,Vegetables,Pounds,Pumpkin,4.677726242,,4.677726242
+2007,Vegetables,Pounds,Pumpkin,4.966703162,,4.966703162
+2008,Vegetables,Pounds,Pumpkin,4.677400327,,4.677400327
+2009,Vegetables,Pounds,Pumpkin,4.008436912,,4.008436912
+2010,Vegetables,Pounds,Pumpkin,4.370167919,,4.370167919
+2011,Vegetables,Pounds,Pumpkin,4.362435336,,4.362435336
+2012,Vegetables,Pounds,Pumpkin,5.036624653,,5.036624653
+2013,Vegetables,Pounds,Pumpkin,4.679140154,,4.679140154
+2014,Vegetables,Pounds,Pumpkin,5.328702864,,5.328702864
+2015,Vegetables,Pounds,Pumpkin,3.127267313,,3.127267313
+2016,Vegetables,Pounds,Pumpkin,4.762672863,,4.762672863
+2017,Vegetables,Pounds,Pumpkin,4.396477676,,4.396477676
+1970,Vegetables,Pounds,Radishes,0.50279929,,0.50279929
+1971,Vegetables,Pounds,Radishes,0.564381372,,0.564381372
+1972,Vegetables,Pounds,Radishes,0.503582727,,0.503582727
+1973,Vegetables,Pounds,Radishes,0.5596742,,0.5596742
+1974,Vegetables,Pounds,Radishes,0.506420268,,0.506420268
+1975,Vegetables,Pounds,Radishes,0.633875531,,0.633875531
+1976,Vegetables,Pounds,Radishes,0.601279611,,0.601279611
+1977,Vegetables,Pounds,Radishes,0.660645935,,0.660645935
+1978,Vegetables,Pounds,Radishes,0.547186431,,0.547186431
+1979,Vegetables,Pounds,Radishes,0.59284214,,0.59284214
+1980,Vegetables,Pounds,Radishes,0.565098487,,0.565098487
+1981,Vegetables,Pounds,Radishes,0.574508242,,0.574508242
+1982,Vegetables,Pounds,Radishes,0.500783487,,0.500783487
+1983,Vegetables,Pounds,Radishes,0.546594631,,0.546594631
+1984,Vegetables,Pounds,Radishes,0.495047437,,0.495047437
+1985,Vegetables,Pounds,Radishes,0.512054967,,0.512054967
+1986,Vegetables,Pounds,Radishes,0.46356455,,0.46356455
+1987,Vegetables,Pounds,Radishes,0.512956931,,0.512956931
+1988,Vegetables,Pounds,Radishes,0.549798648,,0.549798648
+1989,Vegetables,Pounds,Radishes,0.707875002,,0.707875002
+1990,Vegetables,Pounds,Radishes,0.658564761,,0.658564761
+1991,Vegetables,Pounds,Radishes,0.54758981,,0.54758981
+1992,Vegetables,Pounds,Radishes,0.476376599,,0.476376599
+1993,Vegetables,Pounds,Radishes,0.516800857,,0.516800857
+1994,Vegetables,Pounds,Radishes,0.435754594,,0.435754594
+1995,Vegetables,Pounds,Radishes,0.413836177,,0.413836177
+1996,Vegetables,Pounds,Radishes,0.407019505,,0.407019505
+1997,Vegetables,Pounds,Radishes,0.506245256,,0.506245256
+1998,Vegetables,Pounds,Radishes,0.444696351,,0.444696351
+1999,Vegetables,Pounds,Radishes,0.391818329,,0.391818329
+2000,Vegetables,Pounds,Radishes,0.480621904,,0.480621904
+2001,Vegetables,Pounds,Radishes,0.507538601,,0.507538601
+2002,Vegetables,Pounds,Radishes,0.512932765,,0.512932765
+2003,Vegetables,Pounds,Radishes,0.350022403,,0.350022403
+2004,Vegetables,Pounds,Radishes,0.485068816,,0.485068816
+2005,Vegetables,Pounds,Radishes,0.501528658,,0.501528658
+2006,Vegetables,Pounds,Radishes,0.523583207,,0.523583207
+2007,Vegetables,Pounds,Radishes,0.51905351,,0.51905351
+2008,Vegetables,Pounds,Radishes,0.510071648,,0.510071648
+2009,Vegetables,Pounds,Radishes,0.45761847,,0.45761847
+2010,Vegetables,Pounds,Radishes,0.496161869,,0.496161869
+2011,Vegetables,Pounds,Radishes,0.414706186,,0.414706186
+2012,Vegetables,Pounds,Radishes,0.325912868,,0.325912868
+2013,Vegetables,Pounds,Radishes,0.463434357,,0.463434357
+2014,Vegetables,Pounds,Radishes,0.480762773,,0.480762773
+2015,Vegetables,Pounds,Radishes,0.463037389,,0.463037389
+2016,Vegetables,Pounds,Radishes,0.479059124,,0.479059124
+2017,Vegetables,Pounds,Radishes,0.53513182,,0.53513182
+1970,Vegetables,Pounds,Spinach,0.297973197,1.528168757,1.826141954
+1971,Vegetables,Pounds,Spinach,0.304823727,1.504298303,1.809122031
+1972,Vegetables,Pounds,Spinach,0.282997294,1.517135391,1.800132685
+1973,Vegetables,Pounds,Spinach,0.296353623,1.434448655,1.730802278
+1974,Vegetables,Pounds,Spinach,0.283838507,1.440900989,1.724739495
+1975,Vegetables,Pounds,Spinach,0.291240109,1.440718562,1.731958671
+1976,Vegetables,Pounds,Spinach,0.314169743,1.57484037,1.889010113
+1977,Vegetables,Pounds,Spinach,0.37958763,1.412722815,1.792310445
+1978,Vegetables,Pounds,Spinach,0.338626009,1.393690713,1.732316722
+1979,Vegetables,Pounds,Spinach,0.39893808,1.214740255,1.613678335
+1980,Vegetables,Pounds,Spinach,0.444245668,1.362504107,1.806749775
+1981,Vegetables,Pounds,Spinach,0.526848701,1.265748861,1.792597562
+1982,Vegetables,Pounds,Spinach,0.549976871,1.125750295,1.675727166
+1983,Vegetables,Pounds,Spinach,0.512942462,0.800135622,1.313078083
+1984,Vegetables,Pounds,Spinach,0.530266722,0.832903134,1.363169856
+1985,Vegetables,Pounds,Spinach,0.673693533,1.049344035,1.723037568
+1986,Vegetables,Pounds,Spinach,0.584760251,0.898855369,1.48361562
+1987,Vegetables,Pounds,Spinach,0.58322259,0.774292769,1.357515359
+1988,Vegetables,Pounds,Spinach,0.595665887,0.927630245,1.523296132
+1989,Vegetables,Pounds,Spinach,0.641705029,0.77140289,1.413107919
+1990,Vegetables,Pounds,Spinach,0.755895951,0.565219573,1.321115524
+1991,Vegetables,Pounds,Spinach,0.803889303,0.994398637,1.798287939
+1992,Vegetables,Pounds,Spinach,0.816934362,0.809976533,1.626910895
+1993,Vegetables,Pounds,Spinach,0.664843454,1.00382296,1.668666413
+1994,Vegetables,Pounds,Spinach,0.752463183,0.959576834,1.712040017
+1995,Vegetables,Pounds,Spinach,0.671057999,0.987323695,1.658381693
+1996,Vegetables,Pounds,Spinach,0.62800119,1.140414881,1.768416071
+1997,Vegetables,Pounds,Spinach,1.107407384,0.817797769,1.925205153
+1998,Vegetables,Pounds,Spinach,0.969858208,0.777041476,1.746899684
+1999,Vegetables,Pounds,Spinach,0.971633509,0.851770961,1.82340447
+2000,Vegetables,Pounds,Spinach,1.374740383,1.073044695,2.447785078
+2001,Vegetables,Pounds,Spinach,1.072915893,0.845732408,1.918648301
+2002,Vegetables,Pounds,Spinach,1.431403532,0.773755387,2.205158919
+2003,Vegetables,Pounds,Spinach,1.606735579,0.892350208,2.499085787
+2004,Vegetables,Pounds,Spinach,1.845242868,1.009590226,2.854833093
+2005,Vegetables,Pounds,Spinach,2.329189036,0.720874374,3.050063411
+2006,Vegetables,Pounds,Spinach,1.962141792,0.522742471,2.484884263
+2007,Vegetables,Pounds,Spinach,1.614436305,0.809219311,2.423655616
+2008,Vegetables,Pounds,Spinach,1.707771735,0.850566274,2.558338009
+2009,Vegetables,Pounds,Spinach,2.025968428,0.778057692,2.80402612
+2010,Vegetables,Pounds,Spinach,1.68005754,0.734682862,2.414740402
+2011,Vegetables,Pounds,Spinach,1.788252381,0.749170336,2.537422718
+2012,Vegetables,Pounds,Spinach,1.554569277,0.730466149,2.285035426
+2013,Vegetables,Pounds,Spinach,1.590782729,0.863739657,2.454522386
+2014,Vegetables,Pounds,Spinach,1.670227361,0.928536065,2.598763426
+2015,Vegetables,Pounds,Spinach,1.725762672,0.881577416,2.607340087
+2016,Vegetables,Pounds,Spinach,1.826201476,0.83060539,2.656806866
+2017,Vegetables,Pounds,Spinach,1.668591412,0.791297482,2.459888894
+1970,Vegetables,Pounds,Squash,0.297973197,1.528168757,1.826141954
+1971,Vegetables,Pounds,Squash,0.304823727,1.504298303,1.809122031
+1972,Vegetables,Pounds,Squash,0.282997294,1.517135391,1.800132685
+1973,Vegetables,Pounds,Squash,0.296353623,1.434448655,1.730802278
+1974,Vegetables,Pounds,Squash,0.283838507,1.440900989,1.724739495
+1975,Vegetables,Pounds,Squash,0.291240109,1.440718562,1.731958671
+1976,Vegetables,Pounds,Squash,0.314169743,1.57484037,1.889010113
+1977,Vegetables,Pounds,Squash,0.37958763,1.412722815,1.792310445
+1978,Vegetables,Pounds,Squash,0.338626009,1.393690713,1.732316722
+1979,Vegetables,Pounds,Squash,0.39893808,1.214740255,1.613678335
+1980,Vegetables,Pounds,Squash,0.444245668,1.362504107,1.806749775
+1981,Vegetables,Pounds,Squash,0.526848701,1.265748861,1.792597562
+1982,Vegetables,Pounds,Squash,0.549976871,1.125750295,1.675727166
+1983,Vegetables,Pounds,Squash,0.512942462,0.800135622,1.313078083
+1984,Vegetables,Pounds,Squash,0.530266722,0.832903134,1.363169856
+1985,Vegetables,Pounds,Squash,0.673693533,1.049344035,1.723037568
+1986,Vegetables,Pounds,Squash,0.584760251,0.898855369,1.48361562
+1987,Vegetables,Pounds,Squash,0.58322259,0.774292769,1.357515359
+1988,Vegetables,Pounds,Squash,0.595665887,0.927630245,1.523296132
+1989,Vegetables,Pounds,Squash,0.641705029,0.77140289,1.413107919
+1990,Vegetables,Pounds,Squash,0.755895951,0.565219573,1.321115524
+1991,Vegetables,Pounds,Squash,0.803889303,0.994398637,1.798287939
+1992,Vegetables,Pounds,Squash,0.816934362,0.809976533,1.626910895
+1993,Vegetables,Pounds,Squash,0.664843454,1.00382296,1.668666413
+1994,Vegetables,Pounds,Squash,0.752463183,0.959576834,1.712040017
+1995,Vegetables,Pounds,Squash,0.671057999,0.987323695,1.658381693
+1996,Vegetables,Pounds,Squash,0.62800119,1.140414881,1.768416071
+1997,Vegetables,Pounds,Squash,1.107407384,0.817797769,1.925205153
+1998,Vegetables,Pounds,Squash,0.969858208,0.777041476,1.746899684
+1999,Vegetables,Pounds,Squash,0.971633509,0.851770961,1.82340447
+2000,Vegetables,Pounds,Squash,1.374740383,1.073044695,2.447785078
+2001,Vegetables,Pounds,Squash,1.072915893,0.845732408,1.918648301
+2002,Vegetables,Pounds,Squash,1.431403532,0.773755387,2.205158919
+2003,Vegetables,Pounds,Squash,1.606735579,0.892350208,2.499085787
+2004,Vegetables,Pounds,Squash,1.845242868,1.009590226,2.854833093
+2005,Vegetables,Pounds,Squash,2.329189036,0.720874374,3.050063411
+2006,Vegetables,Pounds,Squash,1.962141792,0.522742471,2.484884263
+2007,Vegetables,Pounds,Squash,1.614436305,0.809219311,2.423655616
+2008,Vegetables,Pounds,Squash,1.707771735,0.850566274,2.558338009
+2009,Vegetables,Pounds,Squash,2.025968428,0.778057692,2.80402612
+2010,Vegetables,Pounds,Squash,1.68005754,0.734682862,2.414740402
+2011,Vegetables,Pounds,Squash,1.788252381,0.749170336,2.537422718
+2012,Vegetables,Pounds,Squash,1.554569277,0.730466149,2.285035426
+2013,Vegetables,Pounds,Squash,1.590782729,0.863739657,2.454522386
+2014,Vegetables,Pounds,Squash,1.670227361,0.928536065,2.598763426
+2015,Vegetables,Pounds,Squash,1.725762672,0.881577416,2.607340087
+2016,Vegetables,Pounds,Squash,1.826201476,0.83060539,2.656806866
+2017,Vegetables,Pounds,Squash,1.668591412,0.791297482,2.459888894
+1970,Vegetables,Pounds,Sweetpotatoes,5.412773345,,5.412773345
+1971,Vegetables,Pounds,Sweetpotatoes,4.926249994,,4.926249994
+1972,Vegetables,Pounds,Sweetpotatoes,4.855309296,,4.855309296
+1973,Vegetables,Pounds,Sweetpotatoes,5.032395981,,5.032395981
+1974,Vegetables,Pounds,Sweetpotatoes,4.897032555,,4.897032555
+1975,Vegetables,Pounds,Sweetpotatoes,5.365485501,,5.365485501
+1976,Vegetables,Pounds,Sweetpotatoes,5.383172426,,5.383172426
+1977,Vegetables,Pounds,Sweetpotatoes,4.715286575,,4.715286575
+1978,Vegetables,Pounds,Sweetpotatoes,4.902835517,,4.902835517
+1979,Vegetables,Pounds,Sweetpotatoes,5.066636793,,5.066636793
+1980,Vegetables,Pounds,Sweetpotatoes,4.386707652,,4.386707652
+1981,Vegetables,Pounds,Sweetpotatoes,4.671536772,,4.671536772
+1982,Vegetables,Pounds,Sweetpotatoes,5.392560317,,5.392560317
+1983,Vegetables,Pounds,Sweetpotatoes,4.485194574,,4.485194574
+1984,Vegetables,Pounds,Sweetpotatoes,4.832082174,,4.832082174
+1985,Vegetables,Pounds,Sweetpotatoes,5.26040725,,5.26040725
+1986,Vegetables,Pounds,Sweetpotatoes,4.262080867,,4.262080867
+1987,Vegetables,Pounds,Sweetpotatoes,4.302285254,,4.302285254
+1988,Vegetables,Pounds,Sweetpotatoes,3.930991743,,3.930991743
+1989,Vegetables,Pounds,Sweetpotatoes,3.924678606,,3.924678606
+1990,Vegetables,Pounds,Sweetpotatoes,4.399286328,,4.399286328
+1991,Vegetables,Pounds,Sweetpotatoes,3.8666558,,3.8666558
+1992,Vegetables,Pounds,Sweetpotatoes,4.075586262,,4.075586262
+1993,Vegetables,Pounds,Sweetpotatoes,3.659701161,,3.659701161
+1994,Vegetables,Pounds,Sweetpotatoes,4.462573,,4.462573
+1995,Vegetables,Pounds,Sweetpotatoes,4.207596582,,4.207596582
+1996,Vegetables,Pounds,Sweetpotatoes,4.287382633,,4.287382633
+1997,Vegetables,Pounds,Sweetpotatoes,4.260936971,,4.260936971
+1998,Vegetables,Pounds,Sweetpotatoes,3.847693308,,3.847693308
+1999,Vegetables,Pounds,Sweetpotatoes,3.718272187,,3.718272187
+2000,Vegetables,Pounds,Sweetpotatoes,4.204617905,,4.204617905
+2001,Vegetables,Pounds,Sweetpotatoes,4.369005477,,4.369005477
+2002,Vegetables,Pounds,Sweetpotatoes,3.755950047,,3.755950047
+2003,Vegetables,Pounds,Sweetpotatoes,4.695712512,,4.695712512
+2004,Vegetables,Pounds,Sweetpotatoes,4.70310672,,4.70310672
+2005,Vegetables,Pounds,Sweetpotatoes,4.540353078,,4.540353078
+2006,Vegetables,Pounds,Sweetpotatoes,4.654486953,,4.654486953
+2007,Vegetables,Pounds,Sweetpotatoes,5.090030919,,5.090030919
+2008,Vegetables,Pounds,Sweetpotatoes,5.06888951,,5.06888951
+2009,Vegetables,Pounds,Sweetpotatoes,5.252151863,,5.252151863
+2010,Vegetables,Pounds,Sweetpotatoes,6.338628641,,6.338628641
+2011,Vegetables,Pounds,Sweetpotatoes,7.105586639,,7.105586639
+2012,Vegetables,Pounds,Sweetpotatoes,6.889651092,,6.889651092
+2013,Vegetables,Pounds,Sweetpotatoes,6.29404783,,6.29404783
+2014,Vegetables,Pounds,Sweetpotatoes,7.520863963,,7.520863963
+2015,Vegetables,Pounds,Sweetpotatoes,7.558374376,,7.558374376
+2016,Vegetables,Pounds,Sweetpotatoes,7.218993746,,7.218993746
+2017,Vegetables,Pounds,Sweetpotatoes,8.001789077,,8.001789077
+1970,Vegetables,Pounds,Tomatoes,12.14779568,62.11265575,74.26045143
+1971,Vegetables,Pounds,Tomatoes,11.3430466,68.31721098,79.66025758
+1972,Vegetables,Pounds,Tomatoes,12.09431861,64.8696463,76.96396491
+1973,Vegetables,Pounds,Tomatoes,12.48431968,58.42486063,70.90918031
+1974,Vegetables,Pounds,Tomatoes,11.84303777,61.32840686,73.17144464
+1975,Vegetables,Pounds,Tomatoes,11.99653197,61.93675682,73.93328879
+1976,Vegetables,Pounds,Tomatoes,12.55590112,65.6513171,78.20721822
+1977,Vegetables,Pounds,Tomatoes,12.35694768,62.76976518,75.12671286
+1978,Vegetables,Pounds,Tomatoes,12.9164499,58.8428204,71.7592703
+1979,Vegetables,Pounds,Tomatoes,12.41815112,64.29931638,76.7174675
+1980,Vegetables,Pounds,Tomatoes,12.82913677,63.61282956,76.44196633
+1981,Vegetables,Pounds,Tomatoes,12.31218528,59.31908347,71.63126875
+1982,Vegetables,Pounds,Tomatoes,12.88340913,60.12080231,73.00421145
+1983,Vegetables,Pounds,Tomatoes,13.4697811,60.94467984,74.41446094
+1984,Vegetables,Pounds,Tomatoes,14.19725151,68.51057525,82.70782676
+1985,Vegetables,Pounds,Tomatoes,14.85157633,63.23004968,78.08162601
+1986,Vegetables,Pounds,Tomatoes,15.79526784,63.61607027,79.41133811
+1987,Vegetables,Pounds,Tomatoes,15.84982537,65.20155614,81.05138151
+1988,Vegetables,Pounds,Tomatoes,16.83324695,61.29092404,78.12417099
+1989,Vegetables,Pounds,Tomatoes,16.84340567,69.39730834,86.24071401
+1990,Vegetables,Pounds,Tomatoes,15.52300636,75.31275527,90.83576163
+1991,Vegetables,Pounds,Tomatoes,15.36140874,77.108692,92.47010074
+1992,Vegetables,Pounds,Tomatoes,15.44600589,73.31541819,88.76142407
+1993,Vegetables,Pounds,Tomatoes,16.30273649,75.77532328,92.07805977
+1994,Vegetables,Pounds,Tomatoes,16.2123773,76.2805805,92.4929578
+1995,Vegetables,Pounds,Tomatoes,16.8424815,74.56271797,91.40519947
+1996,Vegetables,Pounds,Tomatoes,17.40330254,73.44656361,90.84986615
+1997,Vegetables,Pounds,Tomatoes,17.29497931,72.57210527,89.86708458
+1998,Vegetables,Pounds,Tomatoes,18.49697488,74.02979934,92.52677422
+1999,Vegetables,Pounds,Tomatoes,19.06802064,71.18507741,90.25309806
+2000,Vegetables,Pounds,Tomatoes,18.98483483,70.13915542,89.12399025
+2001,Vegetables,Pounds,Tomatoes,19.20305346,65.52960257,84.73265603
+2002,Vegetables,Pounds,Tomatoes,20.31147626,69.33676081,89.64823706
+2003,Vegetables,Pounds,Tomatoes,19.4117399,69.82717967,89.23891958
+2004,Vegetables,Pounds,Tomatoes,19.94980234,70.5352733,90.48507564
+2005,Vegetables,Pounds,Tomatoes,20.15119761,73.70717231,93.85836992
+2006,Vegetables,Pounds,Tomatoes,19.77028698,64.50941147,84.27969845
+2007,Vegetables,Pounds,Tomatoes,19.20830536,68.69427348,87.90257884
+2008,Vegetables,Pounds,Tomatoes,18.51358986,67.11039365,85.62398351
+2009,Vegetables,Pounds,Tomatoes,19.58932609,70.27572325,89.86504934
+2010,Vegetables,Pounds,Tomatoes,20.551412,70.75149635,91.30290835
+2011,Vegetables,Pounds,Tomatoes,20.9608336,65.72338214,86.68421574
+2012,Vegetables,Pounds,Tomatoes,20.78041339,66.5106333,87.29104669
+2013,Vegetables,Pounds,Tomatoes,20.22721286,65.93599964,86.1632125
+2014,Vegetables,Pounds,Tomatoes,20.61672256,67.30719887,87.92392143
+2015,Vegetables,Pounds,Tomatoes,20.54227919,56.26338471,76.8056639
+2016,Vegetables,Pounds,Tomatoes,20.35684973,61.48321582,81.84006555
+2017,Vegetables,Pounds,Tomatoes,20.27492773,73.2558591,93.53078683
+1970,Vegetables,Pounds,Turnip greens,,,
+1971,Vegetables,Pounds,Turnip greens,,,
+1972,Vegetables,Pounds,Turnip greens,,,
+1973,Vegetables,Pounds,Turnip greens,,,
+1974,Vegetables,Pounds,Turnip greens,,,
+1975,Vegetables,Pounds,Turnip greens,,,
+1976,Vegetables,Pounds,Turnip greens,,,
+1977,Vegetables,Pounds,Turnip greens,,,
+1978,Vegetables,Pounds,Turnip greens,,,
+1979,Vegetables,Pounds,Turnip greens,,,
+1980,Vegetables,Pounds,Turnip greens,,,
+1981,Vegetables,Pounds,Turnip greens,,,
+1982,Vegetables,Pounds,Turnip greens,,,
+1983,Vegetables,Pounds,Turnip greens,,,
+1984,Vegetables,Pounds,Turnip greens,,,
+1985,Vegetables,Pounds,Turnip greens,,,
+1986,Vegetables,Pounds,Turnip greens,,,
+1987,Vegetables,Pounds,Turnip greens,,,
+1988,Vegetables,Pounds,Turnip greens,,,
+1989,Vegetables,Pounds,Turnip greens,,,
+1990,Vegetables,Pounds,Turnip greens,,,
+1991,Vegetables,Pounds,Turnip greens,,,
+1992,Vegetables,Pounds,Turnip greens,,,
+1993,Vegetables,Pounds,Turnip greens,,,
+1994,Vegetables,Pounds,Turnip greens,,,
+1995,Vegetables,Pounds,Turnip greens,,,
+1996,Vegetables,Pounds,Turnip greens,,,
+1997,Vegetables,Pounds,Turnip greens,0.528243536,,0.528243536
+1998,Vegetables,Pounds,Turnip greens,0.514791301,,0.514791301
+1999,Vegetables,Pounds,Turnip greens,0.513932299,,0.513932299
+2000,Vegetables,Pounds,Turnip greens,0.515253997,,0.515253997
+2001,Vegetables,Pounds,Turnip greens,0.414988634,,0.414988634
+2002,Vegetables,Pounds,Turnip greens,0.457861139,,0.457861139
+2003,Vegetables,Pounds,Turnip greens,0.522547964,,0.522547964
+2004,Vegetables,Pounds,Turnip greens,0.508034498,,0.508034498
+2005,Vegetables,Pounds,Turnip greens,0.443286749,,0.443286749
+2006,Vegetables,Pounds,Turnip greens,0.529637278,,0.529637278
+2007,Vegetables,Pounds,Turnip greens,0.457999358,,0.457999358
+2008,Vegetables,Pounds,Turnip greens,0.369599828,,0.369599828
+2009,Vegetables,Pounds,Turnip greens,0.343395797,,0.343395797
+2010,Vegetables,Pounds,Turnip greens,0.336921722,,0.336921722
+2011,Vegetables,Pounds,Turnip greens,0.318103359,,0.318103359
+2012,Vegetables,Pounds,Turnip greens,0.251357354,,0.251357354
+2013,Vegetables,Pounds,Turnip greens,0.231057451,,0.231057451
+2014,Vegetables,Pounds,Turnip greens,0.393439452,,0.393439452
+2015,Vegetables,Pounds,Turnip greens,0.273922551,,0.273922551
+2016,Vegetables,Pounds,Turnip greens,0.218210819,,0.218210819
+2017,Vegetables,Pounds,Turnip greens,0.22911374,,0.22911374
